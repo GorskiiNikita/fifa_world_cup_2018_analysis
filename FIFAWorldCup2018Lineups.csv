@@ -1,0 +1,1791 @@
+match_id,team_id,team_name,player_id,player_name,player_nickname,jersey_number
+8655,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+8655,771,France,3099,Hugo Lloris,,1
+8655,771,France,3604,Olivier Giroud,,9
+8655,771,France,3961,"N""Golo Kanté",,13
+8655,771,France,4375,Blaise Matuidi,,14
+8655,771,France,5476,Benjamin Pavard,,2
+8655,771,France,5480,Corentin Tolisso,,12
+8655,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+8655,771,France,5485,Raphaël Varane,,4
+8655,771,France,5487,Antoine Griezmann,,7
+8655,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+8655,771,France,5737,"Steven N""Kemboanza Mike Christopher Nzonzi",Steven Nzonzi,15
+8655,771,France,20004,Paul Pogba,,6
+8655,782,Belgium,3037,Moussa Sidi Yaya Dembélé,Mousa Dembélé,19
+8655,782,Belgium,3077,Jan Vertonghen,,5
+8655,782,Belgium,3089,Kevin De Bruyne,,7
+8655,782,Belgium,3101,Vincent Kompany,,4
+8655,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+8655,782,Belgium,3296,Marouane Fellaini-Bakkioui,Marouane Fellaini,8
+8655,782,Belgium,3457,Michy Batshuayi Tunga,Michy Batshuayi,21
+8655,782,Belgium,3509,Thibaut Courtois,,1
+8655,782,Belgium,3621,Eden Hazard,,10
+8655,782,Belgium,4831,Nacer Chadli,,22
+8655,782,Belgium,5630,Dries Mertens,,14
+8655,782,Belgium,5633,Yannick Ferreira Carrasco,Yannick Carrasco,11
+8655,782,Belgium,5642,Axel Witsel,,6
+8655,782,Belgium,20005,Toby Alderweireld,,2
+8657,782,Belgium,2954,Youri Tielemans,,17
+8657,782,Belgium,3037,Moussa Sidi Yaya Dembélé,Mousa Dembélé,19
+8657,782,Belgium,3077,Jan Vertonghen,,5
+8657,782,Belgium,3089,Kevin De Bruyne,,7
+8657,782,Belgium,3101,Vincent Kompany,,4
+8657,782,Belgium,3176,Thomas Meunier,,15
+8657,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+8657,782,Belgium,3509,Thibaut Courtois,,1
+8657,782,Belgium,3621,Eden Hazard,,10
+8657,782,Belgium,4831,Nacer Chadli,,22
+8657,782,Belgium,5630,Dries Mertens,,14
+8657,782,Belgium,5642,Axel Witsel,,6
+8657,782,Belgium,6332,Thomas Vermaelen,,3
+8657,782,Belgium,20005,Toby Alderweireld,,2
+8657,768,England,3094,Bamidele Alli,Dele Alli,20
+8657,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+8657,768,England,3244,John Stones,,5
+8657,768,England,3293,Jesse Lingard,,7
+8657,768,England,3308,Kieran Trippier,,12
+8657,768,England,3314,Phil Jones,,16
+8657,768,England,3318,Marcus Rashford,,19
+8657,768,England,3336,Harry Maguire,,6
+8657,768,England,3468,Jordan Pickford,,1
+8657,768,England,3504,Ruben Loftus-Cheek,,21
+8657,768,England,3594,Danny Rose,,3
+8657,768,England,4597,Fabian Delph,,17
+8657,768,England,10955,Harry Kane,,9
+8657,768,England,10956,Eric Dier,,4
+7543,772,Spain,3064,David Josué Jiménez Silva,David Silva,21
+7543,772,Spain,3333,David de Gea Quintana,David de Gea,1
+7543,772,Spain,4926,Francisco Román Alarcón Suárez,Isco,22
+7543,772,Spain,5198,Diego da Silva Costa,Diego Costa,19
+7543,772,Spain,5199,Jorge Resurrección Merodio,Koke,8
+7543,772,Spain,5200,Lucas Vázquez Iglesias,Lucas Vázquez,11
+7543,772,Spain,5201,Sergio Ramos García,Sergio Ramos,15
+7543,772,Spain,5203,Sergio Busquets i Burgos,Sergio Busquets,5
+7543,772,Spain,5211,Jordi Alba Ramos,Jordi Alba,18
+7543,772,Spain,5213,Gerard Piqué Bernabéu,Gerard Piqué,3
+7543,772,Spain,5216,Andrés Iniesta Luján,Andrés Iniesta,6
+7543,772,Spain,5718,Rodrigo Moreno Machado,Rodrigo,9
+7543,772,Spain,5719,Marco Asensio Willemsen,Marco Asensio,20
+7543,772,Spain,5721,Daniel Carvajal Ramos,Daniel Carvajal,2
+7543,797,Iran,5220,Morteza Pouraliganji,,8
+7543,797,Iran,5224,Sardar Azmoun,,20
+7543,797,Iran,5225,Omid Ebrahimi,,9
+7543,797,Iran,5226,Mehdi Taremi,,17
+7543,797,Iran,5227,Alireza Safar Beiranvand,Alireza Beiranvand,1
+7543,797,Iran,5228,Seyed Majid Hosseini,Majid Hosseini,19
+7543,797,Iran,5230,Ehsan Hajsafi,,3
+7543,797,Iran,5231,Karim Ansarifard,,10
+7543,797,Iran,5235,Ramin Rezaeian,,23
+7543,797,Iran,5239,Alireza Jahanbakhsh,,18
+7543,797,Iran,5240,Saman Ghoddos,,14
+7543,797,Iran,5241,Vahid Amiri,,11
+7543,797,Iran,5720,Milad Mohammadi,,5
+7543,797,Iran,5722,Saeid Ezatolahi Afagh,Saeid Ezatolahi,6
+7562,792,Australia,3240,Mathew Ryan,Mat Ryan,1
+7562,792,Australia,3281,Aaron Mooy,,13
+7562,792,Australia,5478,Trent Sainsbury,,20
+7562,792,Australia,5479,Aziz Eraltay Behich,Aziz Behich,16
+7562,792,Australia,5481,Mathew Leckie,,7
+7562,792,Australia,5482,Josh Risdon,,19
+7562,792,Australia,5483,Daniel Arzani,,17
+7562,792,Australia,5488,Mark Milligan,,5
+7562,792,Australia,5489,Mile Jedinak,,15
+7562,792,Australia,5490,Jackson Irvine,,22
+7562,792,Australia,5491,Tom Rogić,,23
+7562,792,Australia,5493,Tomi Jurić,,9
+7562,792,Australia,5494,Robbie Kruse,,10
+7562,792,Australia,6314,Tim Cahill,,4
+7562,784,Peru,3632,André Martín Carrillo Díaz,André Carrillo,18
+7562,784,Peru,5518,Miguel Ángel Trauco Saavedra,Miguel Trauco,6
+7562,784,Peru,5519,Christian Alberto Cueva Bravo,Christian Cueva,8
+7562,784,Peru,5521,Luis Jan Piers Advíncula Castrillón,Luis Advíncula,17
+7562,784,Peru,5523,Renato Fabrizio Tapia Cortijo,Renato Tapia,13
+7562,784,Peru,5525,Édison Michael Flores Peralta,Edison Flores,20
+7562,784,Peru,5526,Pedro Jesús Aquino Sánchez,Pedro Aquino,23
+7562,784,Peru,5528,Pedro David Gallese Quiróz,Pedro Gallese,1
+7562,784,Peru,5529,Víctor Yoshimar Yotún Flores,Yoshimar Yotún,19
+7562,784,Peru,5530,Christian Guillermo Martín Ramos Garagay,Christian Ramos,15
+7562,784,Peru,5535,José Paolo Guerrero González,Paolo Guerrero,9
+7562,784,Peru,5738,Anderson Santamaría Bardales,Anderson Santamaría,4
+7562,784,Peru,6313,Wilder José Cartagena Mendoza,Wilder Cartagena,16
+7562,784,Peru,6315,Christopher Paolo César Hurtado Huertas,Paolo Hurtado,7
+7549,775,Nigeria,3338,Onyinye Wilfred Ndidi,Wilfred Ndidi,4
+7549,775,Nigeria,3647,Alex Iwobi,,18
+7549,775,Nigeria,3708,Kelechi Promise Iheanacho,Kelechi Iheanacho,14
+7549,775,Nigeria,3963,Victor Moses,,11
+7549,775,Nigeria,5454,Francis Odinaka Uzoho,Francis Uzoho,23
+7549,775,Nigeria,5455,William Troost-Ekong,,5
+7549,775,Nigeria,5458,Odion Jude Ighalo,,9
+7549,775,Nigeria,5462,Brian Oladapo Idowu,Brian Idowu,2
+7549,775,Nigeria,5466,Oghenekaro Etebo,Peter Etebo,8
+7549,775,Nigeria,5467,Leon-Aderemi Balogun,,6
+7549,775,Nigeria,5473,Ahmed Musa,,7
+7549,775,Nigeria,5475,John Michael Nchekwube Obinna,John Obi Mikel,10
+7549,775,Nigeria,5830,Kenneth Josiah Omeruo,Kenneth Omeruo,22
+7549,775,Nigeria,5832,Tyronne Ebuehi,,21
+7549,793,Iceland,3944,Gylfi Þór Sigurðsson,Gylfi Sigurðsson,10
+7549,793,Iceland,5495,Rúrik Gíslason,,19
+7549,793,Iceland,5498,Hannes Þór Halldórsson,,1
+7549,793,Iceland,5500,Björn Bergmann Sigurðarson,,9
+7549,793,Iceland,5501,Hörður Björgvin Magnússon,,18
+7549,793,Iceland,5502,Ari Freyr Skúlason,,23
+7549,793,Iceland,5505,Kári Árnason,,14
+7549,793,Iceland,5508,Birkir Már Sævarsson,,2
+7549,793,Iceland,5509,Birkir Bjarnason,,8
+7549,793,Iceland,5511,Ragnar Sigurðsson,,6
+7549,793,Iceland,5514,Alfreð Finnbogason,,11
+7549,793,Iceland,5515,Aron Einar Gunnarsson,,17
+7549,793,Iceland,5829,Jón Daði Böðvarsson,,22
+7549,793,Iceland,5831,Sverrir Ingi Ingason,,5
+7565,781,Brazil,3054,Fernando Luiz Rosa,Fernandinho,17
+7565,781,Brazil,3202,Gabriel Fernando de Jesus,Gabriel Jesus,9
+7565,781,Brazil,3295,Thiago Emiliano da Silva,Thiago Silva,2
+7565,781,Brazil,3472,Willian Borges da Silva,Willian,19
+7565,781,Brazil,3501,Philippe Coutinho Correia,Philippe Coutinho,11
+7565,781,Brazil,4320,Neymar da Silva Santos Junior,Neymar,10
+7565,781,Brazil,5539,Carlos Henrique Casimiro,Casemiro,5
+7565,781,Brazil,5542,José Paulo Bezzera Maciel Júnior,Paulinho,15
+7565,781,Brazil,5547,Alisson Ramsés Becker,Alisson,1
+7565,781,Brazil,5551,João Miranda de Souza Filho,João Miranda,3
+7565,781,Brazil,5552,Marcelo Vieira da Silva Júnior,Marcelo,12
+7565,781,Brazil,5553,Renato Soares de Oliveira Augusto,Renato Augusto,8
+7565,781,Brazil,5838,Fágner Conserva Lemos,Fágner,22
+7565,781,Brazil,6320,Filipe Luis Kasmirski,Filipe Luis,6
+7565,786,Serbia,3381,Nemanja Matić,,21
+7565,786,Serbia,3831,Dušan Tadić,,10
+7565,786,Serbia,4269,Aleksandar Mitrović,,9
+7565,786,Serbia,5587,Adem Ljajić,,22
+7565,786,Serbia,5588,Antonio Rukavina,,2
+7565,786,Serbia,5589,Sergej Milinković-Savić,,20
+7565,786,Serbia,5591,Filip Kostić,,17
+7565,786,Serbia,5596,Aleksandar Kolarov,,11
+7565,786,Serbia,5601,Vladimir Stojković,,1
+7565,786,Serbia,5603,Nikola Milenković,,15
+7565,786,Serbia,5833,Nemanja Radonjić,,18
+7565,786,Serbia,6318,Andrija Živković,,7
+7565,786,Serbia,6319,Luka Jović,,19
+7565,786,Serbia,6321,Milos Veljkovic,,13
+7581,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,Zanka,13
+7581,776,Denmark,3043,Christian Dannemann Eriksen,Christian Eriksen,10
+7581,776,Denmark,3815,Kasper Schmeichel,,1
+7581,776,Denmark,3959,Andreas Christensen,,6
+7581,776,Denmark,4447,Martin Braithwaite Christensen,Martin Braithwaite,11
+7581,776,Denmark,4763,Henrik Dalsgaard,,14
+7581,776,Denmark,5516,Pione Sisto Ifolo Emirmija,Pione Sisto,23
+7581,776,Denmark,5520,Lasse Schöne,,19
+7581,776,Denmark,5522,Nicolai Jørgensen,,9
+7581,776,Denmark,5527,Thomas Delaney,,8
+7581,776,Denmark,5534,Simon Thorup Kjær,Simon Kjær,4
+7581,776,Denmark,5536,Yussuf Yurary Poulsen,Yussuf Poulsen,20
+7581,776,Denmark,5732,Andreas Evald Cornelius,Andreas Cornelius,21
+7581,776,Denmark,6355,Jonas Knudsen,,5
+7581,776,Denmark,6356,Michael Krohn-Dehli,,2
+7581,785,Croatia,3444,Danijel Subašić,,23
+7581,785,Croatia,3471,Dejan Lovren,,6
+7581,785,Croatia,5456,Mateo Kovačić,,8
+7581,785,Croatia,5457,Ivan Strinić,,3
+7581,785,Croatia,5460,Andrej Kramarić,,9
+7581,785,Croatia,5461,Šime Vrsaljko,,2
+7581,785,Croatia,5463,Luka Modrić,,10
+7581,785,Croatia,5465,Ante Rebić,,18
+7581,785,Croatia,5468,Domagoj Vida,,21
+7581,785,Croatia,5469,Marcelo Brozović,,11
+7581,785,Croatia,5470,Ivan Rakitić,,7
+7581,785,Croatia,5472,Mario Mandžukić,,17
+7581,785,Croatia,5474,Ivan Perišić,,4
+7581,785,Croatia,6305,Milan Badelj,,19
+7581,785,Croatia,6308,Josip Pivarić,,22
+7557,780,Portugal,3168,João Filipe Iria Santos Moutinho,João Moutinho,8
+7557,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,11
+7557,780,Portugal,3329,Cédric Ricardo Alves Soares,Cédric Soares,21
+7557,780,Portugal,3707,Adrien Sebastian Perruchet Silva,Adrien Silva,23
+7557,780,Portugal,3960,José Miguel da Rocha Fonte,José Fonte,6
+7557,780,Portugal,4272,João Mário Naval da Costa Eduardo,João Mário,10
+7557,780,Portugal,4367,Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,17
+7557,780,Portugal,5205,Rui Pedro dos Santos Patrício,Rui Patrício,1
+7557,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,7
+7557,780,Portugal,5209,Raphaël Adelino José Guerreiro,Raphaël Guerreiro,5
+7557,780,Portugal,5214,William Silva de Carvalho,William Carvalho,14
+7557,780,Portugal,5215,Ricardo Andrade Quaresma Bernardo,Ricardo Quaresma,20
+7557,780,Portugal,5218,André Miguel Valente Silva,André Silva,9
+7557,780,Portugal,20016,Kléper Laveran Lima Ferreira,Pepe,3
+7557,797,Iran,5220,Morteza Pouraliganji,,8
+7557,797,Iran,5224,Sardar Azmoun,,20
+7557,797,Iran,5225,Omid Ebrahimi,,9
+7557,797,Iran,5226,Mehdi Taremi,,17
+7557,797,Iran,5227,Alireza Safar Beiranvand,Alireza Beiranvand,1
+7557,797,Iran,5228,Seyed Majid Hosseini,Majid Hosseini,19
+7557,797,Iran,5230,Ehsan Hajsafi,,3
+7557,797,Iran,5231,Karim Ansarifard,,10
+7557,797,Iran,5235,Ramin Rezaeian,,23
+7557,797,Iran,5239,Alireza Jahanbakhsh,,18
+7557,797,Iran,5240,Saman Ghoddos,,14
+7557,797,Iran,5241,Vahid Amiri,,11
+7557,797,Iran,5720,Milad Mohammadi,,5
+7557,797,Iran,5722,Saeid Ezatolahi Afagh,Saeid Ezatolahi,6
+7566,794,Mexico,3058,Javier Hernández Balcázar,Javier Hernández,14
+7566,794,Mexico,5556,Miguel Arturo Layún Prado,Miguel Layún,7
+7566,794,Mexico,5560,Carlos Alberto Vela Garrido,Carlos Vela,11
+7566,794,Mexico,5563,José Andrés Guardado Hernández,Andrés Guardado,18
+7566,794,Mexico,5564,Carlos Joel Salcedo Hernández,Carlos Salcedo,3
+7566,794,Mexico,5567,Edson Omar Álvarez Velázquez,Edson Álvarez,21
+7566,794,Mexico,5571,Hirving Rodrigo Lozano Bahena,Hirving Lozano,22
+7566,794,Mexico,5573,Héctor Alfredo Moreno Herrera,Héctor Moreno,15
+7566,794,Mexico,5575,Héctor Miguel Herrera López,Héctor Herrera,16
+7566,794,Mexico,5576,Jesús Daniel Gallardo Vasconcelos,Jesús Gallardo,23
+7566,794,Mexico,5577,Francisco Guillermo Ochoa Magaña,Guillermo Ochoa,13
+7566,794,Mexico,5985,Jesús Manuel Corona Ruíz,Jesús Corona,17
+7566,794,Mexico,6316,Oribe Peralta Morones,Oribe Peralta,19
+7566,794,Mexico,6317,Marco Jhonfai Fabián De La Mora,Marco Fabián,8
+7566,790,Sweden,3702,Victor Nilsson Lindelöf,Victor Lindelöf,3
+7566,790,Sweden,4417,Ola Toivonen,,20
+7566,790,Sweden,5605,Oscar Hiljemark,,15
+7566,790,Sweden,5607,Andreas Granqvist,,4
+7566,790,Sweden,5611,Gustav Svensson,,13
+7566,790,Sweden,5612,Mikael Lustig,,2
+7566,790,Sweden,5613,Viktor Claesson,,17
+7566,790,Sweden,5615,Isaac Kiese Thelin,,22
+7566,790,Sweden,5617,Sebastian Larsson,,7
+7566,790,Sweden,5621,Ludwig Augustinsson,,6
+7566,790,Sweden,5622,Robin Olsen,,1
+7566,790,Sweden,5624,Albin Ekdal,,8
+7566,790,Sweden,5625,Emil Forsberg,,10
+7566,790,Sweden,11098,Marcus Berg,,9
+7558,783,Uruguay,4319,Edinson Roberto Cavani Gómez,Edinson Cavani,21
+7558,783,Uruguay,5246,Luis Alberto Suárez Díaz,Luis Suárez,9
+7558,783,Uruguay,5247,Nahitan Michel Nández Acosta,Nahitan Nández,8
+7558,783,Uruguay,5248,José Martín Cáceres Silva,Martín Cáceres,22
+7558,783,Uruguay,5249,Diego Roberto Godín Leal,Diego Godín,3
+7558,783,Uruguay,5255,Matías Vecino Falero,Matías Vecino,15
+7558,783,Uruguay,5256,Cristian Gabriel Rodríguez Barrotti,Cristian Rodríguez,7
+7558,783,Uruguay,5258,Giorgian Daniel De Arrascaeta Benedetti,Giorgian De Arrascaeta,10
+7558,783,Uruguay,5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6
+7558,783,Uruguay,5266,Lucas Torreira Di Pascua,Lucas Torreira,14
+7558,783,Uruguay,5267,Néstor Fernando Muslera Micol,Fernando Muslera,1
+7558,783,Uruguay,5717,Diego Sebastián Laxalt Suárez,Diego Laxalt,17
+7558,783,Uruguay,6297,Maximiliano Gómez González,Maxi Gómez,18
+7558,783,Uruguay,6300,Sebastián Coates Nión,Sebastián Coates,19
+7558,796,Russia,5170,Mário Figueira Fernandes,Mário Fernandes,2
+7558,796,Russia,5171,Roman Zobnin,,11
+7558,796,Russia,5172,Igor Akinfeev,,1
+7558,796,Russia,5174,Sergei Ignashevich,,4
+7558,796,Russia,5175,Ilya Kutepov,,3
+7558,796,Russia,5179,Daler Kuzyaev,,7
+7558,796,Russia,5181,Yury Gazinskiy,,8
+7558,796,Russia,5182,Aleksandr Samedov,,19
+7558,796,Russia,5186,Denis Cheryshev,,6
+7558,796,Russia,5194,Fyodor Smolov,,10
+7558,796,Russia,5195,Artem Dzyuba,,22
+7558,796,Russia,5677,Fedor Kudryashov,,13
+7558,796,Russia,6298,Igor Smolnikov,,23
+7558,796,Russia,6299,Aleksey Miranchuk,,15
+7529,775,Nigeria,3338,Onyinye Wilfred Ndidi,Wilfred Ndidi,4
+7529,775,Nigeria,3647,Alex Iwobi,,18
+7529,775,Nigeria,3708,Kelechi Promise Iheanacho,Kelechi Iheanacho,14
+7529,775,Nigeria,3963,Victor Moses,,11
+7529,775,Nigeria,5454,Francis Odinaka Uzoho,Francis Uzoho,23
+7529,775,Nigeria,5455,William Troost-Ekong,,5
+7529,775,Nigeria,5458,Odion Jude Ighalo,,9
+7529,775,Nigeria,5462,Brian Oladapo Idowu,Brian Idowu,2
+7529,775,Nigeria,5464,Simeon Tochukwu Nwankwo,Simy,13
+7529,775,Nigeria,5466,Oghenekaro Etebo,Peter Etebo,8
+7529,775,Nigeria,5467,Leon-Aderemi Balogun,,6
+7529,775,Nigeria,5471,Abdullahi Shehu,,12
+7529,775,Nigeria,5473,Ahmed Musa,,7
+7529,775,Nigeria,5475,John Michael Nchekwube Obinna,John Obi Mikel,10
+7529,785,Croatia,3444,Danijel Subašić,,23
+7529,785,Croatia,3471,Dejan Lovren,,6
+7529,785,Croatia,5456,Mateo Kovačić,,8
+7529,785,Croatia,5457,Ivan Strinić,,3
+7529,785,Croatia,5459,Marko Pjaca,,20
+7529,785,Croatia,5460,Andrej Kramarić,,9
+7529,785,Croatia,5461,Šime Vrsaljko,,2
+7529,785,Croatia,5463,Luka Modrić,,10
+7529,785,Croatia,5465,Ante Rebić,,18
+7529,785,Croatia,5468,Domagoj Vida,,21
+7529,785,Croatia,5469,Marcelo Brozović,,11
+7529,785,Croatia,5470,Ivan Rakitić,,7
+7529,785,Croatia,5472,Mario Mandžukić,,17
+7529,785,Croatia,5474,Ivan Perišić,,4
+8650,782,Belgium,2954,Youri Tielemans,,17
+8650,782,Belgium,3077,Jan Vertonghen,,5
+8650,782,Belgium,3089,Kevin De Bruyne,,7
+8650,782,Belgium,3101,Vincent Kompany,,4
+8650,782,Belgium,3176,Thomas Meunier,,15
+8650,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+8650,782,Belgium,3296,Marouane Fellaini-Bakkioui,Marouane Fellaini,8
+8650,782,Belgium,3509,Thibaut Courtois,,1
+8650,782,Belgium,3621,Eden Hazard,,10
+8650,782,Belgium,4831,Nacer Chadli,,22
+8650,782,Belgium,5642,Axel Witsel,,6
+8650,782,Belgium,6332,Thomas Vermaelen,,3
+8650,782,Belgium,20005,Toby Alderweireld,,2
+8650,781,Brazil,3054,Fernando Luiz Rosa,Fernandinho,17
+8650,781,Brazil,3202,Gabriel Fernando de Jesus,Gabriel Jesus,9
+8650,781,Brazil,3295,Thiago Emiliano da Silva,Thiago Silva,2
+8650,781,Brazil,3472,Willian Borges da Silva,Willian,19
+8650,781,Brazil,3501,Philippe Coutinho Correia,Philippe Coutinho,11
+8650,781,Brazil,3535,Roberto Firmino Barbosa de Oliveira,Roberto Firmino,20
+8650,781,Brazil,4320,Neymar da Silva Santos Junior,Neymar,10
+8650,781,Brazil,5542,José Paulo Bezzera Maciel Júnior,Paulinho,15
+8650,781,Brazil,5547,Alisson Ramsés Becker,Alisson,1
+8650,781,Brazil,5551,João Miranda de Souza Filho,João Miranda,3
+8650,781,Brazil,5552,Marcelo Vieira da Silva Júnior,Marcelo,12
+8650,781,Brazil,5553,Renato Soares de Oliveira Augusto,Renato Augusto,8
+8650,781,Brazil,5837,Douglas Costa de Souza,Douglas Costa,7
+8650,781,Brazil,5838,Fágner Conserva Lemos,Fágner,22
+7546,771,France,2948,Nabil Fekir,,18
+7546,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+7546,771,France,3099,Hugo Lloris,,1
+7546,771,France,3604,Olivier Giroud,,9
+7546,771,France,3961,"N""Golo Kanté",,13
+7546,771,France,4375,Blaise Matuidi,,14
+7546,771,France,5476,Benjamin Pavard,,2
+7546,771,France,5477,Ousmane Dembélé,,11
+7546,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+7546,771,France,5485,Raphaël Varane,,4
+7546,771,France,5487,Antoine Griezmann,,7
+7546,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+7546,771,France,5737,"Steven N""Kemboanza Mike Christopher Nzonzi",Steven Nzonzi,15
+7546,771,France,20004,Paul Pogba,,6
+7546,784,Peru,3632,André Martín Carrillo Díaz,André Carrillo,18
+7546,784,Peru,5518,Miguel Ángel Trauco Saavedra,Miguel Trauco,6
+7546,784,Peru,5519,Christian Alberto Cueva Bravo,Christian Cueva,8
+7546,784,Peru,5521,Luis Jan Piers Advíncula Castrillón,Luis Advíncula,17
+7546,784,Peru,5525,Édison Michael Flores Peralta,Edison Flores,20
+7546,784,Peru,5526,Pedro Jesús Aquino Sánchez,Pedro Aquino,23
+7546,784,Peru,5528,Pedro David Gallese Quiróz,Pedro Gallese,1
+7546,784,Peru,5529,Víctor Yoshimar Yotún Flores,Yoshimar Yotún,19
+7546,784,Peru,5530,Christian Guillermo Martín Ramos Garagay,Christian Ramos,15
+7546,784,Peru,5531,Jefferson Agustín Farfán Guadalupe,Jefferson Farfán,10
+7546,784,Peru,5532,Alberto Junior Rodríguez Valdelomar,Alberto Junior Rodríguez,2
+7546,784,Peru,5533,Raúl Mario Ruidíaz Misitich,Raúl Ruidíaz,11
+7546,784,Peru,5535,José Paolo Guerrero González,Paolo Guerrero,9
+7546,784,Peru,5738,Anderson Santamaría Bardales,Anderson Santamaría,4
+7537,768,England,3094,Bamidele Alli,Dele Alli,20
+7537,768,England,3205,Kyle Walker,,2
+7537,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+7537,768,England,3244,John Stones,,5
+7537,768,England,3293,Jesse Lingard,,7
+7537,768,England,3308,Kieran Trippier,,12
+7537,768,England,3318,Marcus Rashford,,19
+7537,768,England,3336,Harry Maguire,,6
+7537,768,England,3468,Jordan Pickford,,1
+7537,768,England,3504,Ruben Loftus-Cheek,,21
+7537,768,England,3532,Jordan Brian Henderson,Jordan Henderson,8
+7537,768,England,3612,Ashley Young,,18
+7537,768,England,10955,Harry Kane,,9
+7537,768,England,10956,Eric Dier,,4
+7537,777,Tunisia,3196,Wahbi Khazri,,10
+7537,777,Tunisia,3557,Naïm Sliti,,23
+7537,777,Tunisia,3767,Ellyes Skhiri,,17
+7537,777,Tunisia,5647,Ali Maâloul,,12
+7537,777,Tunisia,5648,Farouk Ben Mustapha,,1
+7537,777,Tunisia,5649,Anice Badri,,9
+7537,777,Tunisia,5650,Ferjani Sassi,,13
+7537,777,Tunisia,5651,Yassine Meriah,,4
+7537,777,Tunisia,5652,Saber Khalifa,,19
+7537,777,Tunisia,5653,Mouez Hassen,,22
+7537,777,Tunisia,5654,Fakhreddine Ben Youssef,,8
+7537,777,Tunisia,5655,Dylan Bronn,,11
+7537,777,Tunisia,5656,Syam Ben Youssef,,2
+7537,777,Tunisia,5657,Mohamed Amine Ben Amor,,14
+7580,771,France,2948,Nabil Fekir,,18
+7580,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+7580,771,France,3099,Hugo Lloris,,1
+7580,771,France,3254,Florian Thauvin,,20
+7580,771,France,3604,Olivier Giroud,,9
+7580,771,France,3961,"N""Golo Kanté",,13
+7580,771,France,4375,Blaise Matuidi,,14
+7580,771,France,5476,Benjamin Pavard,,2
+7580,771,France,5480,Corentin Tolisso,,12
+7580,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+7580,771,France,5485,Raphaël Varane,,4
+7580,771,France,5487,Antoine Griezmann,,7
+7580,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+7580,771,France,20004,Paul Pogba,,6
+7580,779,Argentina,2995,Ángel Fabián Di María Hernández,Ángel Di María,11
+7580,779,Argentina,3090,Nicolás Hernán Otamendi,Nicolás Otamendi,17
+7580,779,Argentina,3237,Sergio Leonel Agüero del Castillo,Sergio Agüero,19
+7580,779,Argentina,3602,Faustino Marcos Alberto Rojo,Marcos Rojo,16
+7580,779,Argentina,5496,Cristian David Pavón,Cristian Pavón,22
+7580,779,Argentina,5499,Maximiliano Eduardo Meza,Maximiliano Meza,13
+7580,779,Argentina,5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10
+7580,779,Argentina,5504,Éver Maximiliano David Banega,Éver Banega,7
+7580,779,Argentina,5506,Javier Alejandro Mascherano,Javier Mascherano,14
+7580,779,Argentina,5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3
+7580,779,Argentina,5741,Enzo Nicolás Pérez,Enzo Pérez,15
+7580,779,Argentina,5742,Gabriel Iván Mercado,Gabriel Mercado,2
+7580,779,Argentina,6312,Franco Armani,,12
+7580,779,Argentina,6349,Federico Julián Fazio,Federico Fazio,6
+7545,779,Argentina,3090,Nicolás Hernán Otamendi,Nicolás Otamendi,17
+7545,779,Argentina,3237,Sergio Leonel Agüero del Castillo,Sergio Agüero,19
+7545,779,Argentina,3659,Wilfredo Daniel Caballero,Willy Caballero,23
+7545,779,Argentina,5496,Cristian David Pavón,Cristian Pavón,22
+7545,779,Argentina,5497,Gonzalo Gerardo Higuaín,Gonzalo Higuaín,9
+7545,779,Argentina,5499,Maximiliano Eduardo Meza,Maximiliano Meza,13
+7545,779,Argentina,5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10
+7545,779,Argentina,5506,Javier Alejandro Mascherano,Javier Mascherano,14
+7545,779,Argentina,5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3
+7545,779,Argentina,5513,Eduardo Antonio Salvio,Eduardo Salvio,18
+7545,779,Argentina,5741,Enzo Nicolás Pérez,Enzo Pérez,15
+7545,779,Argentina,5742,Gabriel Iván Mercado,Gabriel Mercado,2
+7545,779,Argentina,5743,Paulo Bruno Exequiel Dybala,Paulo Dybala,21
+7545,779,Argentina,19597,Marcos Javier Acuña,Marcos Acuña,8
+7545,785,Croatia,3444,Danijel Subašić,,23
+7545,785,Croatia,3471,Dejan Lovren,,6
+7545,785,Croatia,5456,Mateo Kovačić,,8
+7545,785,Croatia,5457,Ivan Strinić,,3
+7545,785,Croatia,5460,Andrej Kramarić,,9
+7545,785,Croatia,5461,Šime Vrsaljko,,2
+7545,785,Croatia,5463,Luka Modrić,,10
+7545,785,Croatia,5465,Ante Rebić,,18
+7545,785,Croatia,5468,Domagoj Vida,,21
+7545,785,Croatia,5469,Marcelo Brozović,,11
+7545,785,Croatia,5470,Ivan Rakitić,,7
+7545,785,Croatia,5472,Mario Mandžukić,,17
+7545,785,Croatia,5474,Ivan Perišić,,4
+7545,785,Croatia,5739,Vedran Ćorluka,,5
+7536,782,Belgium,3037,Moussa Sidi Yaya Dembélé,Mousa Dembélé,19
+7536,782,Belgium,3077,Jan Vertonghen,,5
+7536,782,Belgium,3089,Kevin De Bruyne,,7
+7536,782,Belgium,3176,Thomas Meunier,,15
+7536,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+7536,782,Belgium,3509,Thibaut Courtois,,1
+7536,782,Belgium,3621,Eden Hazard,,10
+7536,782,Belgium,4831,Nacer Chadli,,22
+7536,782,Belgium,5630,Dries Mertens,,14
+7536,782,Belgium,5632,Thorgan Hazard,,16
+7536,782,Belgium,5633,Yannick Ferreira Carrasco,Yannick Carrasco,11
+7536,782,Belgium,5639,Anga Dedryck Boyata,Dedryck Boyata,20
+7536,782,Belgium,5642,Axel Witsel,,6
+7536,782,Belgium,20005,Toby Alderweireld,,2
+7536,798,Panama,5628,José Luis Rodríguez Francis,José Rodríguez,21
+7536,798,Panama,5629,Gabriel Arturo Torres Tejada,Gabriel Torres,9
+7536,798,Panama,5631,Blas Antonio Miguel Pérez Ortega,Blas Pérez,7
+7536,798,Panama,5634,Erick Javier Davis Grajales,Erick Davis,15
+7536,798,Panama,5635,Román Aureliano Torres Morcillo,Román Torres,5
+7536,798,Panama,5636,Jaime Manuel Penedo Cano,Jaime Penedo,1
+7536,798,Panama,5637,Edgar Yoel Bárcenas Herrera,Édgar Yoel Bárcenas,8
+7536,798,Panama,5638,Fidel Escobar Mendieta,Fidel Escobar,4
+7536,798,Panama,5640,Gabriel Enrique Gómez Girón,Gabriel Enrique Gómez,6
+7536,798,Panama,5641,Michael Amir Murillo Bermudez,Michael Amir Murillo,2
+7536,798,Panama,5643,Luis Carlos Tejada Hansell,Luis Tejada,18
+7536,798,Panama,5644,Ismael Díaz De León,Ismael Díaz,10
+7536,798,Panama,5645,Armando Enrique Cooper Whitaker,Armando Cooper,11
+7536,798,Panama,5646,Aníbal Cesis Godoy,Aníbal Godoy,20
+7530,771,France,2948,Nabil Fekir,,18
+7530,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+7530,771,France,3099,Hugo Lloris,,1
+7530,771,France,3604,Olivier Giroud,,9
+7530,771,France,3961,"N""Golo Kanté",,13
+7530,771,France,4375,Blaise Matuidi,,14
+7530,771,France,5476,Benjamin Pavard,,2
+7530,771,France,5477,Ousmane Dembélé,,11
+7530,771,France,5480,Corentin Tolisso,,12
+7530,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+7530,771,France,5485,Raphaël Varane,,4
+7530,771,France,5487,Antoine Griezmann,,7
+7530,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+7530,771,France,20004,Paul Pogba,,6
+7530,792,Australia,3240,Mathew Ryan,Mat Ryan,1
+7530,792,Australia,3281,Aaron Mooy,,13
+7530,792,Australia,5478,Trent Sainsbury,,20
+7530,792,Australia,5479,Aziz Eraltay Behich,Aziz Behich,16
+7530,792,Australia,5481,Mathew Leckie,,7
+7530,792,Australia,5482,Josh Risdon,,19
+7530,792,Australia,5483,Daniel Arzani,,17
+7530,792,Australia,5486,Andrew Nabbout,,11
+7530,792,Australia,5488,Mark Milligan,,5
+7530,792,Australia,5489,Mile Jedinak,,15
+7530,792,Australia,5490,Jackson Irvine,,22
+7530,792,Australia,5491,Tom Rogić,,23
+7530,792,Australia,5493,Tomi Jurić,,9
+7530,792,Australia,5494,Robbie Kruse,,10
+7535,786,Serbia,3381,Nemanja Matić,,21
+7535,786,Serbia,3455,Luka Milivojević,,4
+7535,786,Serbia,3831,Dušan Tadić,,10
+7535,786,Serbia,4269,Aleksandar Mitrović,,9
+7535,786,Serbia,5580,Duško Tošić,,3
+7535,786,Serbia,5583,Aleksandar Prijović,,8
+7535,786,Serbia,5587,Adem Ljajić,,22
+7535,786,Serbia,5588,Antonio Rukavina,,2
+7535,786,Serbia,5589,Sergej Milinković-Savić,,20
+7535,786,Serbia,5591,Filip Kostić,,17
+7535,786,Serbia,5594,Branislav Ivanović,,6
+7535,786,Serbia,5596,Aleksandar Kolarov,,11
+7535,786,Serbia,5601,Vladimir Stojković,,1
+7535,786,Serbia,5603,Nikola Milenković,,15
+7535,795,Costa Rica,5581,Joel Nathaniel Campbell Samuels,Joel Campbell,12
+7535,795,Costa Rica,5582,Celso Borges Mora,Celso Borges,5
+7535,795,Costa Rica,5584,Giancarlo González Castro,Giancarlo González,3
+7535,795,Costa Rica,5585,Daniel Colindres Solera,Daniel Colindres,9
+7535,795,Costa Rica,5586,Marcos Danilo Ureña Porras,Marco Ureña,21
+7535,795,Costa Rica,5590,Johnny Acosta Zamora,Johnny Acosta,2
+7535,795,Costa Rica,5592,Bryan Ruiz González,Bryan Ruiz,10
+7535,795,Costa Rica,5593,Christian Bolaños Navarro,Christian Bolaños,7
+7535,795,Costa Rica,5595,Johan Alberto Venegas Ulloa,Johan Venegas,11
+7535,795,Costa Rica,5597,Keylor Navas Gamboa,Keylor Navas,1
+7535,795,Costa Rica,5598,Óscar Esau Duarte Gaitán,Óscar Duarte,6
+7535,795,Costa Rica,5599,David Alberto Guzmán Pérez,David Guzmán,20
+7535,795,Costa Rica,5600,Francisco Javier Calvo Quesada,Francisco Calvo,15
+7535,795,Costa Rica,5602,Cristian Gamboa Luna,Cristian Gamboa,16
+7584,782,Belgium,3077,Jan Vertonghen,,5
+7584,782,Belgium,3089,Kevin De Bruyne,,7
+7584,782,Belgium,3101,Vincent Kompany,,4
+7584,782,Belgium,3176,Thomas Meunier,,15
+7584,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+7584,782,Belgium,3296,Marouane Fellaini-Bakkioui,Marouane Fellaini,8
+7584,782,Belgium,3509,Thibaut Courtois,,1
+7584,782,Belgium,3621,Eden Hazard,,10
+7584,782,Belgium,4831,Nacer Chadli,,22
+7584,782,Belgium,5630,Dries Mertens,,14
+7584,782,Belgium,5633,Yannick Ferreira Carrasco,Yannick Carrasco,11
+7584,782,Belgium,5642,Axel Witsel,,6
+7584,782,Belgium,20005,Toby Alderweireld,,2
+7584,778,Japan,3175,Eiji Kawashima,,1
+7584,778,Japan,3300,Maya Yoshida,,22
+7584,778,Japan,3530,Hiroki Sakai,,19
+7584,778,Japan,5679,Yūya Ōsako,,15
+7584,778,Japan,5681,Makoto Hasebe,,17
+7584,778,Japan,5682,Gen Shōji,,3
+7584,778,Japan,5683,Keisuke Honda,,4
+7584,778,Japan,5684,Shinji Kagawa,,10
+7584,778,Japan,5687,Takashi Inui,,14
+7584,778,Japan,5690,Yuto Nagatomo,,5
+7584,778,Japan,5693,Gaku Shibasaki,,7
+7584,778,Japan,5694,Hotaru Yamaguchi,,16
+7584,778,Japan,5697,Genki Haraguchi,,8
+8649,771,France,2948,Nabil Fekir,,18
+8649,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+8649,771,France,3099,Hugo Lloris,,1
+8649,771,France,3604,Olivier Giroud,,9
+8649,771,France,3961,"N""Golo Kanté",,13
+8649,771,France,5476,Benjamin Pavard,,2
+8649,771,France,5477,Ousmane Dembélé,,11
+8649,771,France,5480,Corentin Tolisso,,12
+8649,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+8649,771,France,5485,Raphaël Varane,,4
+8649,771,France,5487,Antoine Griezmann,,7
+8649,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+8649,771,France,5737,"Steven N""Kemboanza Mike Christopher Nzonzi",Steven Nzonzi,15
+8649,771,France,20004,Paul Pogba,,6
+8649,783,Uruguay,5246,Luis Alberto Suárez Díaz,Luis Suárez,9
+8649,783,Uruguay,5247,Nahitan Michel Nández Acosta,Nahitan Nández,8
+8649,783,Uruguay,5248,José Martín Cáceres Silva,Martín Cáceres,22
+8649,783,Uruguay,5249,Diego Roberto Godín Leal,Diego Godín,3
+8649,783,Uruguay,5255,Matías Vecino Falero,Matías Vecino,15
+8649,783,Uruguay,5256,Cristian Gabriel Rodríguez Barrotti,Cristian Rodríguez,7
+8649,783,Uruguay,5259,José María Giménez de Vargas,José Giménez,2
+8649,783,Uruguay,5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6
+8649,783,Uruguay,5266,Lucas Torreira Di Pascua,Lucas Torreira,14
+8649,783,Uruguay,5267,Néstor Fernando Muslera Micol,Fernando Muslera,1
+8649,783,Uruguay,5717,Diego Sebastián Laxalt Suárez,Diego Laxalt,17
+8649,783,Uruguay,6297,Maximiliano Gómez González,Maxi Gómez,18
+8649,783,Uruguay,6351,Cristhian Ricardo Stuani Curbelo,Cristhian Stuani,11
+8649,783,Uruguay,6426,Jonathan Matías Urretaviscaya da Luz,Jonathan Urretaviscaya,20
+7538,791,South Korea,3083,Heung-Min Son,Son Heung-Min,7
+7538,791,South Korea,3605,Sung-Yeung Ki,Ki Sung-Yeung,16
+7538,791,South Korea,5604,Young-Gwon Kim,Kim Young-Gwon,19
+7538,791,South Korea,5606,Hyun-Soo Jang,Jang Hyun-Soo,20
+7538,791,South Korea,5608,Yong Lee,Lee Yong,2
+7538,791,South Korea,5609,Joo-Ho Park,Park Joo-Ho,6
+7538,791,South Korea,5610,Min-Woo Kim,Kim Min-Woo,12
+7538,791,South Korea,5616,Seung-Woo Lee,Lee Seung-Woo,10
+7538,791,South Korea,5618,Woo-Young Jung,Jung Woo-Young,15
+7538,791,South Korea,5619,Hyun-Woo Cho,Cho Hyun-Woo,23
+7538,791,South Korea,5620,Hee-Chan Hwang,Hwang Hee-Chan,11
+7538,791,South Korea,5623,Jae-Sung Lee,Lee Jae-Sung,17
+7538,791,South Korea,5626,Shin-Wook Kim,Kim Shin-Wook,9
+7538,791,South Korea,5627,Ja-Cheol Koo,Koo Ja-Cheol,13
+7538,790,Sweden,4417,Ola Toivonen,,20
+7538,790,Sweden,4709,Pontus Jansson,,18
+7538,790,Sweden,5605,Oscar Hiljemark,,15
+7538,790,Sweden,5607,Andreas Granqvist,,4
+7538,790,Sweden,5611,Gustav Svensson,,13
+7538,790,Sweden,5612,Mikael Lustig,,2
+7538,790,Sweden,5613,Viktor Claesson,,17
+7538,790,Sweden,5615,Isaac Kiese Thelin,,22
+7538,790,Sweden,5617,Sebastian Larsson,,7
+7538,790,Sweden,5621,Ludwig Augustinsson,,6
+7538,790,Sweden,5622,Robin Olsen,,1
+7538,790,Sweden,5624,Albin Ekdal,,8
+7538,790,Sweden,5625,Emil Forsberg,,10
+7538,790,Sweden,11098,Marcus Berg,,9
+7533,781,Brazil,3054,Fernando Luiz Rosa,Fernandinho,17
+7533,781,Brazil,3063,Danilo Luiz da Silva,Danilo,14
+7533,781,Brazil,3202,Gabriel Fernando de Jesus,Gabriel Jesus,9
+7533,781,Brazil,3295,Thiago Emiliano da Silva,Thiago Silva,2
+7533,781,Brazil,3472,Willian Borges da Silva,Willian,19
+7533,781,Brazil,3501,Philippe Coutinho Correia,Philippe Coutinho,11
+7533,781,Brazil,3535,Roberto Firmino Barbosa de Oliveira,Roberto Firmino,20
+7533,781,Brazil,4320,Neymar da Silva Santos Junior,Neymar,10
+7533,781,Brazil,5539,Carlos Henrique Casimiro,Casemiro,5
+7533,781,Brazil,5542,José Paulo Bezzera Maciel Júnior,Paulinho,15
+7533,781,Brazil,5547,Alisson Ramsés Becker,Alisson,1
+7533,781,Brazil,5551,João Miranda de Souza Filho,João Miranda,3
+7533,781,Brazil,5552,Marcelo Vieira da Silva Júnior,Marcelo,12
+7533,781,Brazil,5553,Renato Soares de Oliveira Augusto,Renato Augusto,8
+7533,773,Switzerland,3500,Granit Xhaka,,10
+7533,773,Switzerland,3533,Xherdan Shaqiri,,23
+7533,773,Switzerland,5537,Fabian Lukas Schär,Fabian Schär,22
+7533,773,Switzerland,5538,Denis Lemi Zakaria Lako Lado,Denis Zakaria,17
+7533,773,Switzerland,5540,Valon Behrami,,11
+7533,773,Switzerland,5541,Stephan Lichtsteiner,,2
+7533,773,Switzerland,5543,Haris Seferović,,9
+7533,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,Ricardo Rodríguez,13
+7533,773,Switzerland,5545,Breel-Donald Embolo,Breel Embolo,7
+7533,773,Switzerland,5546,Michael Lang,,6
+7533,773,Switzerland,5548,Steven Zuber,,14
+7533,773,Switzerland,5549,Manuel Obafemi Akanji,Manuel Akanji,5
+7533,773,Switzerland,5550,Yann Sommer,,1
+7533,773,Switzerland,5554,Blerim Džemaili,,15
+7560,772,Spain,3064,David Josué Jiménez Silva,David Silva,21
+7560,772,Spain,3333,David de Gea Quintana,David de Gea,1
+7560,772,Spain,4926,Francisco Román Alarcón Suárez,Isco,22
+7560,772,Spain,5198,Diego da Silva Costa,Diego Costa,19
+7560,772,Spain,5201,Sergio Ramos García,Sergio Ramos,15
+7560,772,Spain,5203,Sergio Busquets i Burgos,Sergio Busquets,5
+7560,772,Spain,5208,Thiago Alcântara do Nascimento,Thiago Alcântara,10
+7560,772,Spain,5211,Jordi Alba Ramos,Jordi Alba,18
+7560,772,Spain,5213,Gerard Piqué Bernabéu,Gerard Piqué,3
+7560,772,Spain,5216,Andrés Iniesta Luján,Andrés Iniesta,6
+7560,772,Spain,5217,Iago Aspas Juncal,Iago Aspas,17
+7560,772,Spain,5718,Rodrigo Moreno Machado,Rodrigo,9
+7560,772,Spain,5719,Marco Asensio Willemsen,Marco Asensio,20
+7560,772,Spain,5721,Daniel Carvajal Ramos,Daniel Carvajal,2
+7560,788,Morocco,3302,Nordin Amrabat,,16
+7560,788,Morocco,5219,Romain Saïss,,6
+7560,788,Morocco,5221,Manuel Marouan da Costa Trinidade,Manuel da Costa,4
+7560,788,Morocco,5223,Aziz Bouhaddouz,,20
+7560,788,Morocco,5232,Mbark Boussoufa,,14
+7560,788,Morocco,5233,Munir Mohand Mohamedi,Munir,12
+7560,788,Morocco,5236,Karim El Ahmadi Al Aroos,Karim El Ahmadi,8
+7560,788,Morocco,5237,Hakim Ziyech,,7
+7560,788,Morocco,5242,Younès Belhanda,,10
+7560,788,Morocco,5245,Achraf Hakimi Mouh,Achraf Hakimi,2
+7560,788,Morocco,5724,Fayçal Fajr,,11
+7560,788,Morocco,5726,Khalid Boutaïb,,13
+7560,788,Morocco,5727,Nabil Dirar,,17
+7560,788,Morocco,6301,Youssef En-Nesyri,,19
+7525,796,Russia,5170,Mário Figueira Fernandes,Mário Fernandes,2
+7525,796,Russia,5171,Roman Zobnin,,11
+7525,796,Russia,5172,Igor Akinfeev,,1
+7525,796,Russia,5174,Sergei Ignashevich,,4
+7525,796,Russia,5175,Ilya Kutepov,,3
+7525,796,Russia,5177,Aleksandr Golovin,,17
+7525,796,Russia,5179,Daler Kuzyaev,,7
+7525,796,Russia,5180,Alan Dzagoev,,9
+7525,796,Russia,5181,Yury Gazinskiy,,8
+7525,796,Russia,5182,Aleksandr Samedov,,19
+7525,796,Russia,5186,Denis Cheryshev,,6
+7525,796,Russia,5193,Yuri Zhirkov,,18
+7525,796,Russia,5194,Fyodor Smolov,,10
+7525,796,Russia,5195,Artem Dzyuba,,22
+7525,799,Saudi Arabia,5173,Abdullah Ibrahim Otayf,Abdullah Otayf,14
+7525,799,Saudi Arabia,5176,Mohanad Aseri Abu Radiah,Mohanad Aseri,20
+7525,799,Saudi Arabia,5178,Salman Mohammed Al Faraj,Salman Al Faraj,7
+7525,799,Saudi Arabia,5183,Yasir Gharsan Al Shahrani,Yasir Al Shahrani,13
+7525,799,Saudi Arabia,5184,Osama Abdulrezag Hawsawi,Osama Hawsawi,3
+7525,799,Saudi Arabia,5185,Taisir Jabir Al Jassim,Taisir Al Jassim,17
+7525,799,Saudi Arabia,5187,Salem Mohammed Al Dawsari,Salem Al Dawsari,18
+7525,799,Saudi Arabia,5188,Hattan Babhir,,9
+7525,799,Saudi Arabia,5189,Abdullah Ibrahim Al Maiouf,Abdullah Al Maiouf,1
+7525,799,Saudi Arabia,5190,Fahad Mosaed Al Muwallad Al Harbi,Fahad Al Muwallad,19
+7525,799,Saudi Arabia,5191,Mohammed Al Burayk,,6
+7525,799,Saudi Arabia,5192,Yehya Sulaiman Al Shehri,Yehya Al Shehri,8
+7525,799,Saudi Arabia,5196,Mohammad Ibrahim Al Sahlawi,Mohammad Al Sahlawi,10
+7525,799,Saudi Arabia,5197,Omar Ibrahim Omar Othman Hawsawi,Omar Hawsawi,5
+7532,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,Zanka,13
+7532,776,Denmark,3043,Christian Dannemann Eriksen,Christian Eriksen,10
+7532,776,Denmark,3815,Kasper Schmeichel,,1
+7532,776,Denmark,3959,Andreas Christensen,,6
+7532,776,Denmark,4447,Martin Braithwaite Christensen,Martin Braithwaite,11
+7532,776,Denmark,4763,Henrik Dalsgaard,,14
+7532,776,Denmark,5516,Pione Sisto Ifolo Emirmija,Pione Sisto,23
+7532,776,Denmark,5517,William Vitved Kvist Jørgensen,William Kvist,7
+7532,776,Denmark,5520,Lasse Schöne,,19
+7532,776,Denmark,5522,Nicolai Jørgensen,,9
+7532,776,Denmark,5524,Jens Stryger Larsen,,17
+7532,776,Denmark,5527,Thomas Delaney,,8
+7532,776,Denmark,5534,Simon Thorup Kjær,Simon Kjær,4
+7532,776,Denmark,5536,Yussuf Yurary Poulsen,Yussuf Poulsen,20
+7532,784,Peru,3632,André Martín Carrillo Díaz,André Carrillo,18
+7532,784,Peru,5518,Miguel Ángel Trauco Saavedra,Miguel Trauco,6
+7532,784,Peru,5519,Christian Alberto Cueva Bravo,Christian Cueva,8
+7532,784,Peru,5521,Luis Jan Piers Advíncula Castrillón,Luis Advíncula,17
+7532,784,Peru,5523,Renato Fabrizio Tapia Cortijo,Renato Tapia,13
+7532,784,Peru,5525,Édison Michael Flores Peralta,Edison Flores,20
+7532,784,Peru,5526,Pedro Jesús Aquino Sánchez,Pedro Aquino,23
+7532,784,Peru,5528,Pedro David Gallese Quiróz,Pedro Gallese,1
+7532,784,Peru,5529,Víctor Yoshimar Yotún Flores,Yoshimar Yotún,19
+7532,784,Peru,5530,Christian Guillermo Martín Ramos Garagay,Christian Ramos,15
+7532,784,Peru,5531,Jefferson Agustín Farfán Guadalupe,Jefferson Farfán,10
+7532,784,Peru,5532,Alberto Junior Rodríguez Valdelomar,Alberto Junior Rodríguez,2
+7532,784,Peru,5533,Raúl Mario Ruidíaz Misitich,Raúl Ruidíaz,11
+7532,784,Peru,5535,José Paolo Guerrero González,Paolo Guerrero,9
+7555,789,Poland,3034,Kamil Glik,,15
+7555,789,Poland,3637,Grzegorz Krychowiak,,10
+7555,789,Poland,4626,Jan Bednarek,,5
+7555,789,Poland,5658,Łukasz Piszczek,,20
+7555,789,Poland,5660,Piotr Zieliński,,19
+7555,789,Poland,5666,Dawid Kownacki,,23
+7555,789,Poland,5667,Kamil Grosicki,,11
+7555,789,Poland,5668,Robert Lewandowski,,9
+7555,789,Poland,5669,Wojciech Szczęsny,,1
+7555,789,Poland,5670,Michał Pazdan,,2
+7555,789,Poland,5672,Maciej Rybus,,13
+7555,789,Poland,5673,Bartosz Bereszyński,,18
+7555,789,Poland,6194,Łukasz Teodorczyk,,14
+7555,789,Poland,6195,Jacek Góralski,,6
+7555,769,Colombia,3445,Radamel Falcao García Zárate,Radamel Falcao,9
+7555,769,Colombia,3494,Davinson Sánchez Mina,Davinson Sánchez,23
+7555,769,Colombia,4276,David Ospina Ramírez,David Ospina,1
+7555,769,Colombia,5678,Jefferson Andrés Lerma Solís,Jefferson Lerma,16
+7555,769,Colombia,5686,Wílmar Enrique Barrios Terán,Wílmar Barrios,5
+7555,769,Colombia,5688,Carlos Arturo Bacca Ahumada,Carlos Bacca,7
+7555,769,Colombia,5689,Juan Guillermo Cuadrado Bello,Juan Cuadrado,11
+7555,769,Colombia,5691,Johan Andrés Mojica Palacio,Johan Mojica,17
+7555,769,Colombia,5692,Juan Fernando Quintero Paniagua,Juan Fernando Quintero,20
+7555,769,Colombia,5695,James David Rodríguez Rubio,James Rodríguez,10
+7555,769,Colombia,5696,Santiago Arias Naranjo,Santiago Arias,4
+7555,769,Colombia,6192,Abel Enrique Aguilar Tapia,Abel Aguilar,8
+7555,769,Colombia,6193,Andrés Mateus Uribe Villa,Mateus Uribe,15
+7555,769,Colombia,6196,Yerry Fernando Mina González,Yerry Mina,13
+7571,787,Senegal,2941,Ismaïla Sarr,,18
+7571,787,Senegal,3145,Keita Baldé Diao,Keita,20
+7571,787,Senegal,3404,Youssouf Sabaly,,12
+7571,787,Senegal,3436,Idrissa Gana Gueye,Idrissa Gueye,5
+7571,787,Senegal,3555,Pape Moussa Konaté,Moussa Konate,14
+7571,787,Senegal,3629,Sadio Mané,,10
+7571,787,Senegal,3684,Cheikhou Kouyaté,,8
+7571,787,Senegal,3962,Diafra Sakho,,15
+7571,787,Senegal,5659,"Khadim N""Diaye",,16
+7571,787,Senegal,5661,"M""Baye Babacar Niang",M'Baye Niang,19
+7571,787,Senegal,5664,Salif Sané,,6
+7571,787,Senegal,5674,Moussa Wagué,,22
+7571,787,Senegal,5675,Kalidou Koulibaly,,3
+7571,787,Senegal,6335,Lamine Gassama,,21
+7571,769,Colombia,3445,Radamel Falcao García Zárate,Radamel Falcao,9
+7571,769,Colombia,3494,Davinson Sánchez Mina,Davinson Sánchez,23
+7571,769,Colombia,4276,David Ospina Ramírez,David Ospina,1
+7571,769,Colombia,5678,Jefferson Andrés Lerma Solís,Jefferson Lerma,16
+7571,769,Colombia,5685,Carlos Alberto Sánchez Moreno,Carlos Sánchez,6
+7571,769,Colombia,5689,Juan Guillermo Cuadrado Bello,Juan Cuadrado,11
+7571,769,Colombia,5691,Johan Andrés Mojica Palacio,Johan Mojica,17
+7571,769,Colombia,5692,Juan Fernando Quintero Paniagua,Juan Fernando Quintero,20
+7571,769,Colombia,5695,James David Rodríguez Rubio,James Rodríguez,10
+7571,769,Colombia,5696,Santiago Arias Naranjo,Santiago Arias,4
+7571,769,Colombia,6193,Andrés Mateus Uribe Villa,Mateus Uribe,15
+7571,769,Colombia,6196,Yerry Fernando Mina González,Yerry Mina,13
+7571,769,Colombia,6333,Miguel Ángel Borja Hernández,Miguel Borja,19
+7571,769,Colombia,6334,Luis Fernando Muriel Fruto,Luis Muriel,14
+8652,785,Croatia,3444,Danijel Subašić,,23
+8652,785,Croatia,3471,Dejan Lovren,,6
+8652,785,Croatia,5456,Mateo Kovačić,,8
+8652,785,Croatia,5457,Ivan Strinić,,3
+8652,785,Croatia,5460,Andrej Kramarić,,9
+8652,785,Croatia,5461,Šime Vrsaljko,,2
+8652,785,Croatia,5463,Luka Modrić,,10
+8652,785,Croatia,5465,Ante Rebić,,18
+8652,785,Croatia,5468,Domagoj Vida,,21
+8652,785,Croatia,5469,Marcelo Brozović,,11
+8652,785,Croatia,5470,Ivan Rakitić,,7
+8652,785,Croatia,5472,Mario Mandžukić,,17
+8652,785,Croatia,5474,Ivan Perišić,,4
+8652,785,Croatia,5739,Vedran Ćorluka,,5
+8652,785,Croatia,6308,Josip Pivarić,,22
+8652,796,Russia,5170,Mário Figueira Fernandes,Mário Fernandes,2
+8652,796,Russia,5171,Roman Zobnin,,11
+8652,796,Russia,5172,Igor Akinfeev,,1
+8652,796,Russia,5174,Sergei Ignashevich,,4
+8652,796,Russia,5175,Ilya Kutepov,,3
+8652,796,Russia,5177,Aleksandr Golovin,,17
+8652,796,Russia,5179,Daler Kuzyaev,,7
+8652,796,Russia,5180,Alan Dzagoev,,9
+8652,796,Russia,5181,Yury Gazinskiy,,8
+8652,796,Russia,5182,Aleksandr Samedov,,19
+8652,796,Russia,5186,Denis Cheryshev,,6
+8652,796,Russia,5194,Fyodor Smolov,,10
+8652,796,Russia,5195,Artem Dzyuba,,22
+8652,796,Russia,5677,Fedor Kudryashov,,13
+8652,796,Russia,6354,Aleksandr Erokhin,,21
+7553,794,Mexico,3058,Javier Hernández Balcázar,Javier Hernández,14
+7553,794,Mexico,5556,Miguel Arturo Layún Prado,Miguel Layún,7
+7553,794,Mexico,5558,Rafael Márquez Álvarez,Rafael Márquez,4
+7553,794,Mexico,5560,Carlos Alberto Vela Garrido,Carlos Vela,11
+7553,794,Mexico,5563,José Andrés Guardado Hernández,Andrés Guardado,18
+7553,794,Mexico,5564,Carlos Joel Salcedo Hernández,Carlos Salcedo,3
+7553,794,Mexico,5567,Edson Omar Álvarez Velázquez,Edson Álvarez,21
+7553,794,Mexico,5571,Hirving Rodrigo Lozano Bahena,Hirving Lozano,22
+7553,794,Mexico,5573,Héctor Alfredo Moreno Herrera,Héctor Moreno,15
+7553,794,Mexico,5575,Héctor Miguel Herrera López,Héctor Herrera,16
+7553,794,Mexico,5576,Jesús Daniel Gallardo Vasconcelos,Jesús Gallardo,23
+7553,794,Mexico,5577,Francisco Guillermo Ochoa Magaña,Guillermo Ochoa,13
+7553,794,Mexico,5985,Jesús Manuel Corona Ruíz,Jesús Corona,17
+7553,794,Mexico,5987,Giovani dos Santos Ramírez,Giovani dos Santos,10
+7553,791,South Korea,3083,Heung-Min Son,Son Heung-Min,7
+7553,791,South Korea,3605,Sung-Yeung Ki,Ki Sung-Yeung,16
+7553,791,South Korea,5604,Young-Gwon Kim,Kim Young-Gwon,19
+7553,791,South Korea,5606,Hyun-Soo Jang,Jang Hyun-Soo,20
+7553,791,South Korea,5608,Yong Lee,Lee Yong,2
+7553,791,South Korea,5610,Min-Woo Kim,Kim Min-Woo,12
+7553,791,South Korea,5616,Seung-Woo Lee,Lee Seung-Woo,10
+7553,791,South Korea,5618,Woo-Young Jung,Jung Woo-Young,15
+7553,791,South Korea,5619,Hyun-Woo Cho,Cho Hyun-Woo,23
+7553,791,South Korea,5620,Hee-Chan Hwang,Hwang Hee-Chan,11
+7553,791,South Korea,5623,Jae-Sung Lee,Lee Jae-Sung,17
+7553,791,South Korea,5986,Chul Hong,Hong Chul,14
+7553,791,South Korea,5988,Se-Jong Ju,Ju Se-Jong,8
+7553,791,South Korea,5989,Seon-Min Moon,Moon Seon-Min,18
+7559,774,Egypt,3531,Mohamed Salah,,10
+7559,774,Egypt,3536,Ramadan Sobhi,,14
+7559,774,Egypt,3568,Mohamed Naser Elsayed Elneny,Mohamed Elneny,17
+7559,774,Egypt,4063,Ahmed Hegazi,,6
+7559,774,Egypt,5250,Ahmed Fathy Abdel Meneim Ibrahim,Ahmed Fathy,7
+7559,774,Egypt,5251,Abdalla Mahmoud El Said Bekhit,Abdalla El Said,19
+7559,774,Egypt,5252,Marwan Mohsen,,9
+7559,774,Egypt,5253,Amr Medhat Warda,Amr Warda,22
+7559,774,Egypt,5254,Ali Gabr,,2
+7559,774,Egypt,5257,Mahmoud Abdul Monem Abdelhamid Soliman,Kahraba,11
+7559,774,Egypt,5261,Mahmoud Ibrahim Hassan,Trézéguet,21
+7559,774,Egypt,5262,Tarek Hamed,,8
+7559,774,Egypt,5263,Mohamed Abdul Shafy Sayed Abouezeid,Mohamed Abdul Shafy,13
+7559,774,Egypt,6292,Essam Kamal Tawfik El Hadary,Essam El Hadary,1
+7559,799,Saudi Arabia,5173,Abdullah Ibrahim Otayf,Abdullah Otayf,14
+7559,799,Saudi Arabia,5176,Mohanad Aseri Abu Radiah,Mohanad Aseri,20
+7559,799,Saudi Arabia,5178,Salman Mohammed Al Faraj,Salman Al Faraj,7
+7559,799,Saudi Arabia,5183,Yasir Gharsan Al Shahrani,Yasir Al Shahrani,13
+7559,799,Saudi Arabia,5184,Osama Abdulrezag Hawsawi,Osama Hawsawi,3
+7559,799,Saudi Arabia,5187,Salem Mohammed Al Dawsari,Salem Al Dawsari,18
+7559,799,Saudi Arabia,5188,Hattan Babhir,,9
+7559,799,Saudi Arabia,5190,Fahad Mosaed Al Muwallad Al Harbi,Fahad Al Muwallad,19
+7559,799,Saudi Arabia,5191,Mohammed Al Burayk,,6
+7559,799,Saudi Arabia,5192,Yehya Sulaiman Al Shehri,Yehya Al Shehri,8
+7559,799,Saudi Arabia,5716,Hussain Al Mogahwi,,16
+7559,799,Saudi Arabia,6290,Motaz Ali Hassan Hawsawi,Motaz Hawsawi,23
+7559,799,Saudi Arabia,6291,Yasser Abdullah Al Mosailem,Yasser Al Mosailem,21
+7548,781,Brazil,3054,Fernando Luiz Rosa,Fernandinho,17
+7548,781,Brazil,3202,Gabriel Fernando de Jesus,Gabriel Jesus,9
+7548,781,Brazil,3295,Thiago Emiliano da Silva,Thiago Silva,2
+7548,781,Brazil,3472,Willian Borges da Silva,Willian,19
+7548,781,Brazil,3501,Philippe Coutinho Correia,Philippe Coutinho,11
+7548,781,Brazil,3535,Roberto Firmino Barbosa de Oliveira,Roberto Firmino,20
+7548,781,Brazil,4320,Neymar da Silva Santos Junior,Neymar,10
+7548,781,Brazil,5539,Carlos Henrique Casimiro,Casemiro,5
+7548,781,Brazil,5542,José Paulo Bezzera Maciel Júnior,Paulinho,15
+7548,781,Brazil,5547,Alisson Ramsés Becker,Alisson,1
+7548,781,Brazil,5551,João Miranda de Souza Filho,João Miranda,3
+7548,781,Brazil,5552,Marcelo Vieira da Silva Júnior,Marcelo,12
+7548,781,Brazil,5837,Douglas Costa de Souza,Douglas Costa,7
+7548,781,Brazil,5838,Fágner Conserva Lemos,Fágner,22
+7548,795,Costa Rica,5582,Celso Borges Mora,Celso Borges,5
+7548,795,Costa Rica,5584,Giancarlo González Castro,Giancarlo González,3
+7548,795,Costa Rica,5586,Marcos Danilo Ureña Porras,Marco Ureña,21
+7548,795,Costa Rica,5590,Johnny Acosta Zamora,Johnny Acosta,2
+7548,795,Costa Rica,5592,Bryan Ruiz González,Bryan Ruiz,10
+7548,795,Costa Rica,5593,Christian Bolaños Navarro,Christian Bolaños,7
+7548,795,Costa Rica,5595,Johan Alberto Venegas Ulloa,Johan Venegas,11
+7548,795,Costa Rica,5597,Keylor Navas Gamboa,Keylor Navas,1
+7548,795,Costa Rica,5598,Óscar Esau Duarte Gaitán,Óscar Duarte,6
+7548,795,Costa Rica,5599,David Alberto Guzmán Pérez,David Guzmán,20
+7548,795,Costa Rica,5600,Francisco Javier Calvo Quesada,Francisco Calvo,15
+7548,795,Costa Rica,5602,Cristian Gamboa Luna,Cristian Gamboa,16
+7548,795,Costa Rica,5836,Bryan Oviedo,,8
+7548,795,Costa Rica,5839,Yeltsin Ignacio Tejeda Valverde,Yeltsin Tejeda,17
+7534,794,Mexico,3058,Javier Hernández Balcázar,Javier Hernández,14
+7534,794,Mexico,5556,Miguel Arturo Layún Prado,Miguel Layún,7
+7534,794,Mexico,5558,Rafael Márquez Álvarez,Rafael Márquez,4
+7534,794,Mexico,5560,Carlos Alberto Vela Garrido,Carlos Vela,11
+7534,794,Mexico,5561,Hugo Ayala Castro,Hugo Ayala,2
+7534,794,Mexico,5563,José Andrés Guardado Hernández,Andrés Guardado,18
+7534,794,Mexico,5564,Carlos Joel Salcedo Hernández,Carlos Salcedo,3
+7534,794,Mexico,5567,Edson Omar Álvarez Velázquez,Edson Álvarez,21
+7534,794,Mexico,5568,Raúl Alonso Jiménez Rodríguez,Raúl Jiménez,9
+7534,794,Mexico,5571,Hirving Rodrigo Lozano Bahena,Hirving Lozano,22
+7534,794,Mexico,5573,Héctor Alfredo Moreno Herrera,Héctor Moreno,15
+7534,794,Mexico,5575,Héctor Miguel Herrera López,Héctor Herrera,16
+7534,794,Mexico,5576,Jesús Daniel Gallardo Vasconcelos,Jesús Gallardo,23
+7534,794,Mexico,5577,Francisco Guillermo Ochoa Magaña,Guillermo Ochoa,13
+7534,770,Germany,3186,Julian Draxler,,7
+7534,770,Germany,3496,Mesut Özil,,10
+7534,770,Germany,5555,Julian Brandt,,20
+7534,770,Germany,5557,Timo Werner,,9
+7534,770,Germany,5559,Marco Reus,,11
+7534,770,Germany,5562,Thomas Müller,,13
+7534,770,Germany,5565,Mario Gómez García,Mario Gómez,23
+7534,770,Germany,5566,Sami Khedira,,6
+7534,770,Germany,5569,Marvin Plattenhardt,,2
+7534,770,Germany,5570,Manuel Neuer,,1
+7534,770,Germany,5572,Mats Hummels,,5
+7534,770,Germany,5574,Toni Kroos,,8
+7534,770,Germany,5578,Jérôme Boateng,,17
+7534,770,Germany,5579,Joshua Kimmich,,18
+7577,788,Morocco,3302,Nordin Amrabat,,16
+7577,788,Morocco,5219,Romain Saïss,,6
+7577,788,Morocco,5221,Manuel Marouan da Costa Trinidade,Manuel da Costa,4
+7577,788,Morocco,5223,Aziz Bouhaddouz,,20
+7577,788,Morocco,5229,Ayoub El Kaabi,,9
+7577,788,Morocco,5232,Mbark Boussoufa,,14
+7577,788,Morocco,5233,Munir Mohand Mohamedi,Munir,12
+7577,788,Morocco,5234,Sofyan Amrabat,,21
+7577,788,Morocco,5236,Karim El Ahmadi Al Aroos,Karim El Ahmadi,8
+7577,788,Morocco,5237,Hakim Ziyech,,7
+7577,788,Morocco,5242,Younès Belhanda,,10
+7577,788,Morocco,5243,Amine Harit,,18
+7577,788,Morocco,5244,Medhi Amine El Mouttaqi Benatia,Medhi Benatia,5
+7577,788,Morocco,5245,Achraf Hakimi Mouh,Achraf Hakimi,2
+7577,797,Iran,5220,Morteza Pouraliganji,,8
+7577,797,Iran,5222,Roozbeh Cheshmi,,4
+7577,797,Iran,5224,Sardar Azmoun,,20
+7577,797,Iran,5225,Omid Ebrahimi,,9
+7577,797,Iran,5226,Mehdi Taremi,,17
+7577,797,Iran,5227,Alireza Safar Beiranvand,Alireza Beiranvand,1
+7577,797,Iran,5228,Seyed Majid Hosseini,Majid Hosseini,19
+7577,797,Iran,5230,Ehsan Hajsafi,,3
+7577,797,Iran,5231,Karim Ansarifard,,10
+7577,797,Iran,5235,Ramin Rezaeian,,23
+7577,797,Iran,5238,Masoud Shojaei Soleimani,Masoud Shojaei,7
+7577,797,Iran,5239,Alireza Jahanbakhsh,,18
+7577,797,Iran,5240,Saman Ghoddos,,14
+7577,797,Iran,5241,Vahid Amiri,,11
+7539,787,Senegal,2941,Ismaïla Sarr,,18
+7539,787,Senegal,3404,Youssouf Sabaly,,12
+7539,787,Senegal,3436,Idrissa Gana Gueye,Idrissa Gueye,5
+7539,787,Senegal,3555,Pape Moussa Konaté,Moussa Konate,14
+7539,787,Senegal,3603,Mame Biram Diouf,,9
+7539,787,Senegal,3629,Sadio Mané,,10
+7539,787,Senegal,3684,Cheikhou Kouyaté,,8
+7539,787,Senegal,5659,"Khadim N""Diaye",,16
+7539,787,Senegal,5661,"M""Baye Babacar Niang",M'Baye Niang,19
+7539,787,Senegal,5664,Salif Sané,,6
+7539,787,Senegal,5671,"Alfred John Momar N""Diaye",Alfred N'Diaye,13
+7539,787,Senegal,5674,Moussa Wagué,,22
+7539,787,Senegal,5675,Kalidou Koulibaly,,3
+7539,787,Senegal,5676,"Cheikh N""Doye",,11
+7539,789,Poland,3637,Grzegorz Krychowiak,,10
+7539,789,Poland,4626,Jan Bednarek,,5
+7539,789,Poland,5658,Łukasz Piszczek,,20
+7539,789,Poland,5660,Piotr Zieliński,,19
+7539,789,Poland,5662,Thiago Rangel Cionek,Thiago Cionek,4
+7539,789,Poland,5663,Jakub Błaszczykowski,,16
+7539,789,Poland,5665,Arkadiusz Milik,,7
+7539,789,Poland,5666,Dawid Kownacki,,23
+7539,789,Poland,5667,Kamil Grosicki,,11
+7539,789,Poland,5668,Robert Lewandowski,,9
+7539,789,Poland,5669,Wojciech Szczęsny,,1
+7539,789,Poland,5670,Michał Pazdan,,2
+7539,789,Poland,5672,Maciej Rybus,,13
+7539,789,Poland,5673,Bartosz Bereszyński,,18
+7550,786,Serbia,3381,Nemanja Matić,,21
+7550,786,Serbia,3455,Luka Milivojević,,4
+7550,786,Serbia,3831,Dušan Tadić,,10
+7550,786,Serbia,4269,Aleksandar Mitrović,,9
+7550,786,Serbia,5580,Duško Tošić,,3
+7550,786,Serbia,5587,Adem Ljajić,,22
+7550,786,Serbia,5589,Sergej Milinković-Savić,,20
+7550,786,Serbia,5591,Filip Kostić,,17
+7550,786,Serbia,5594,Branislav Ivanović,,6
+7550,786,Serbia,5596,Aleksandar Kolarov,,11
+7550,786,Serbia,5601,Vladimir Stojković,,1
+7550,786,Serbia,5603,Nikola Milenković,,15
+7550,786,Serbia,5833,Nemanja Radonjić,,18
+7550,773,Switzerland,3500,Granit Xhaka,,10
+7550,773,Switzerland,3533,Xherdan Shaqiri,,23
+7550,773,Switzerland,5537,Fabian Lukas Schär,Fabian Schär,22
+7550,773,Switzerland,5540,Valon Behrami,,11
+7550,773,Switzerland,5541,Stephan Lichtsteiner,,2
+7550,773,Switzerland,5543,Haris Seferović,,9
+7550,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,Ricardo Rodríguez,13
+7550,773,Switzerland,5545,Breel-Donald Embolo,Breel Embolo,7
+7550,773,Switzerland,5548,Steven Zuber,,14
+7550,773,Switzerland,5549,Manuel Obafemi Akanji,Manuel Akanji,5
+7550,773,Switzerland,5550,Yann Sommer,,1
+7550,773,Switzerland,5554,Blerim Džemaili,,15
+7550,773,Switzerland,5834,Mario Gavranović,,18
+7550,773,Switzerland,5835,Josip Drmic,,19
+7556,787,Senegal,2941,Ismaïla Sarr,,18
+7556,787,Senegal,3404,Youssouf Sabaly,,12
+7556,787,Senegal,3436,Idrissa Gana Gueye,Idrissa Gueye,5
+7556,787,Senegal,3603,Mame Biram Diouf,,9
+7556,787,Senegal,3629,Sadio Mané,,10
+7556,787,Senegal,3684,Cheikhou Kouyaté,,8
+7556,787,Senegal,4277,"Papa Alioune N""Diaye",Badou Ndiaye,17
+7556,787,Senegal,5659,"Khadim N""Diaye",,16
+7556,787,Senegal,5661,"M""Baye Babacar Niang",M'Baye Niang,19
+7556,787,Senegal,5664,Salif Sané,,6
+7556,787,Senegal,5671,"Alfred John Momar N""Diaye",Alfred N'Diaye,13
+7556,787,Senegal,5674,Moussa Wagué,,22
+7556,787,Senegal,5675,Kalidou Koulibaly,,3
+7556,787,Senegal,5676,"Cheikh N""Doye",,11
+7556,778,Japan,3175,Eiji Kawashima,,1
+7556,778,Japan,3300,Maya Yoshida,,22
+7556,778,Japan,3530,Hiroki Sakai,,19
+7556,778,Japan,3810,Shinji Okazaki,,9
+7556,778,Japan,5679,Yūya Ōsako,,15
+7556,778,Japan,5681,Makoto Hasebe,,17
+7556,778,Japan,5682,Gen Shōji,,3
+7556,778,Japan,5683,Keisuke Honda,,4
+7556,778,Japan,5684,Shinji Kagawa,,10
+7556,778,Japan,5687,Takashi Inui,,14
+7556,778,Japan,5690,Yuto Nagatomo,,5
+7556,778,Japan,5693,Gaku Shibasaki,,7
+7556,778,Japan,5697,Genki Haraguchi,,8
+7556,778,Japan,6191,Takashi Usami,,11
+7561,785,Croatia,3471,Dejan Lovren,,6
+7561,785,Croatia,5456,Mateo Kovačić,,8
+7561,785,Croatia,5459,Marko Pjaca,,20
+7561,785,Croatia,5460,Andrej Kramarić,,9
+7561,785,Croatia,5463,Luka Modrić,,10
+7561,785,Croatia,5470,Ivan Rakitić,,7
+7561,785,Croatia,5474,Ivan Perišić,,4
+7561,785,Croatia,5739,Vedran Ćorluka,,5
+7561,785,Croatia,6305,Milan Badelj,,19
+7561,785,Croatia,6307,Duje Ćaleta-Car,,15
+7561,785,Croatia,6308,Josip Pivarić,,22
+7561,785,Croatia,6309,Tin Jedvaj,,13
+7561,785,Croatia,6310,Filip Bradarić,,14
+7561,785,Croatia,6311,Lovre Kalinić,,12
+7561,793,Iceland,3720,Johann Berg Guðmunds­son,Johann Gudmundsson,7
+7561,793,Iceland,3944,Gylfi Þór Sigurðsson,Gylfi Sigurðsson,10
+7561,793,Iceland,5498,Hannes Þór Halldórsson,,1
+7561,793,Iceland,5500,Björn Bergmann Sigurðarson,,9
+7561,793,Iceland,5501,Hörður Björgvin Magnússon,,18
+7561,793,Iceland,5508,Birkir Már Sævarsson,,2
+7561,793,Iceland,5509,Birkir Bjarnason,,8
+7561,793,Iceland,5511,Ragnar Sigurðsson,,6
+7561,793,Iceland,5512,Emil Hallfreðsson,,20
+7561,793,Iceland,5514,Alfreð Finnbogason,,11
+7561,793,Iceland,5515,Aron Einar Gunnarsson,,17
+7561,793,Iceland,5831,Sverrir Ingi Ingason,,5
+7561,793,Iceland,6304,Arnór Ingvi Traustason,,21
+7561,793,Iceland,6306,Albert Gudmundsson,,4
+7586,773,Switzerland,3500,Granit Xhaka,,10
+7586,773,Switzerland,3533,Xherdan Shaqiri,,23
+7586,773,Switzerland,5540,Valon Behrami,,11
+7586,773,Switzerland,5543,Haris Seferović,,9
+7586,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,Ricardo Rodríguez,13
+7586,773,Switzerland,5545,Breel-Donald Embolo,Breel Embolo,7
+7586,773,Switzerland,5546,Michael Lang,,6
+7586,773,Switzerland,5548,Steven Zuber,,14
+7586,773,Switzerland,5549,Manuel Obafemi Akanji,Manuel Akanji,5
+7586,773,Switzerland,5550,Yann Sommer,,1
+7586,773,Switzerland,5554,Blerim Džemaili,,15
+7586,773,Switzerland,5835,Josip Drmic,,19
+7586,773,Switzerland,6359,Johan Danon Djourou-Gbadjere,Johan Djourou,20
+7586,790,Sweden,3576,Martin Olsson,,5
+7586,790,Sweden,3702,Victor Nilsson Lindelöf,Victor Lindelöf,3
+7586,790,Sweden,4417,Ola Toivonen,,20
+7586,790,Sweden,5607,Andreas Granqvist,,4
+7586,790,Sweden,5611,Gustav Svensson,,13
+7586,790,Sweden,5612,Mikael Lustig,,2
+7586,790,Sweden,5613,Viktor Claesson,,17
+7586,790,Sweden,5615,Isaac Kiese Thelin,,22
+7586,790,Sweden,5621,Ludwig Augustinsson,,6
+7586,790,Sweden,5622,Robin Olsen,,1
+7586,790,Sweden,5624,Albin Ekdal,,8
+7586,790,Sweden,5625,Emil Forsberg,,10
+7586,790,Sweden,6358,Emil Krafth,,16
+7586,790,Sweden,11098,Marcus Berg,,9
+7563,771,France,2948,Nabil Fekir,,18
+7563,771,France,2999,Presnel Kimpembe,,3
+7563,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+7563,771,France,3245,Thomas Lemar,,8
+7563,771,France,3261,Benjamin Mendy,,22
+7563,771,France,3446,Djibril Sidibé,,19
+7563,771,France,3543,Steve Mandanda,,16
+7563,771,France,3604,Olivier Giroud,,9
+7563,771,France,3961,"N""Golo Kanté",,13
+7563,771,France,5477,Ousmane Dembélé,,11
+7563,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+7563,771,France,5485,Raphaël Varane,,4
+7563,771,France,5487,Antoine Griezmann,,7
+7563,771,France,5737,"Steven N""Kemboanza Mike Christopher Nzonzi",Steven Nzonzi,15
+7563,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,Zanka,13
+7563,776,Denmark,3043,Christian Dannemann Eriksen,Christian Eriksen,10
+7563,776,Denmark,3410,Lukas Reiff Lerager,Lukas Lerager,18
+7563,776,Denmark,3815,Kasper Schmeichel,,1
+7563,776,Denmark,3959,Andreas Christensen,,6
+7563,776,Denmark,4447,Martin Braithwaite Christensen,Martin Braithwaite,11
+7563,776,Denmark,4763,Henrik Dalsgaard,,14
+7563,776,Denmark,5516,Pione Sisto Ifolo Emirmija,Pione Sisto,23
+7563,776,Denmark,5524,Jens Stryger Larsen,,17
+7563,776,Denmark,5527,Thomas Delaney,,8
+7563,776,Denmark,5534,Simon Thorup Kjær,Simon Kjær,4
+7563,776,Denmark,5732,Andreas Evald Cornelius,Andreas Cornelius,21
+7563,776,Denmark,6302,Kasper Dolberg,,12
+7563,776,Denmark,6303,Viktor Fischer,,15
+7579,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,11
+7579,780,Portugal,3707,Adrien Sebastian Perruchet Silva,Adrien Silva,23
+7579,780,Portugal,3960,José Miguel da Rocha Fonte,José Fonte,6
+7579,780,Portugal,4272,João Mário Naval da Costa Eduardo,João Mário,10
+7579,780,Portugal,4367,Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,17
+7579,780,Portugal,5205,Rui Pedro dos Santos Patrício,Rui Patrício,1
+7579,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,7
+7579,780,Portugal,5209,Raphaël Adelino José Guerreiro,Raphaël Guerreiro,5
+7579,780,Portugal,5214,William Silva de Carvalho,William Carvalho,14
+7579,780,Portugal,5215,Ricardo Andrade Quaresma Bernardo,Ricardo Quaresma,20
+7579,780,Portugal,5218,André Miguel Valente Silva,André Silva,9
+7579,780,Portugal,6350,Manuel Henrique Tavares Fernandes,Manuel Fernandes,4
+7579,780,Portugal,6352,Ricardo Domingos Barbosa Pereira,Ricardo Pereira,15
+7579,780,Portugal,20016,Kléper Laveran Lima Ferreira,Pepe,3
+7579,783,Uruguay,4319,Edinson Roberto Cavani Gómez,Edinson Cavani,21
+7579,783,Uruguay,5246,Luis Alberto Suárez Díaz,Luis Suárez,9
+7579,783,Uruguay,5247,Nahitan Michel Nández Acosta,Nahitan Nández,8
+7579,783,Uruguay,5248,José Martín Cáceres Silva,Martín Cáceres,22
+7579,783,Uruguay,5249,Diego Roberto Godín Leal,Diego Godín,3
+7579,783,Uruguay,5255,Matías Vecino Falero,Matías Vecino,15
+7579,783,Uruguay,5256,Cristian Gabriel Rodríguez Barrotti,Cristian Rodríguez,7
+7579,783,Uruguay,5259,José María Giménez de Vargas,José Giménez,2
+7579,783,Uruguay,5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6
+7579,783,Uruguay,5266,Lucas Torreira Di Pascua,Lucas Torreira,14
+7579,783,Uruguay,5267,Néstor Fernando Muslera Micol,Fernando Muslera,1
+7579,783,Uruguay,5268,Carlos Andrés Sánchez Arcosa,Carlos Andrés Sánchez,5
+7579,783,Uruguay,5717,Diego Sebastián Laxalt Suárez,Diego Laxalt,17
+7579,783,Uruguay,6351,Cristhian Ricardo Stuani Curbelo,Cristhian Stuani,11
+7578,774,Egypt,3536,Ramadan Sobhi,,14
+7578,774,Egypt,3568,Mohamed Naser Elsayed Elneny,Mohamed Elneny,17
+7578,774,Egypt,3878,Sam Morsy,,5
+7578,774,Egypt,4063,Ahmed Hegazi,,6
+7578,774,Egypt,5250,Ahmed Fathy Abdel Meneim Ibrahim,Ahmed Fathy,7
+7578,774,Egypt,5251,Abdalla Mahmoud El Said Bekhit,Abdalla El Said,19
+7578,774,Egypt,5252,Marwan Mohsen,,9
+7578,774,Egypt,5253,Amr Medhat Warda,Amr Warda,22
+7578,774,Egypt,5254,Ali Gabr,,2
+7578,774,Egypt,5257,Mahmoud Abdul Monem Abdelhamid Soliman,Kahraba,11
+7578,774,Egypt,5261,Mahmoud Ibrahim Hassan,Trézéguet,21
+7578,774,Egypt,5262,Tarek Hamed,,8
+7578,774,Egypt,5263,Mohamed Abdul Shafy Sayed Abouezeid,Mohamed Abdul Shafy,13
+7578,774,Egypt,5265,Mohamed El Shenawy,,23
+7578,783,Uruguay,4319,Edinson Roberto Cavani Gómez,Edinson Cavani,21
+7578,783,Uruguay,5246,Luis Alberto Suárez Díaz,Luis Suárez,9
+7578,783,Uruguay,5247,Nahitan Michel Nández Acosta,Nahitan Nández,8
+7578,783,Uruguay,5248,José Martín Cáceres Silva,Martín Cáceres,22
+7578,783,Uruguay,5249,Diego Roberto Godín Leal,Diego Godín,3
+7578,783,Uruguay,5255,Matías Vecino Falero,Matías Vecino,15
+7578,783,Uruguay,5256,Cristian Gabriel Rodríguez Barrotti,Cristian Rodríguez,7
+7578,783,Uruguay,5258,Giorgian Daniel De Arrascaeta Benedetti,Giorgian De Arrascaeta,10
+7578,783,Uruguay,5259,José María Giménez de Vargas,José Giménez,2
+7578,783,Uruguay,5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6
+7578,783,Uruguay,5264,Guillermo Varela Olivera,Guillermo Varela,4
+7578,783,Uruguay,5266,Lucas Torreira Di Pascua,Lucas Torreira,14
+7578,783,Uruguay,5267,Néstor Fernando Muslera Micol,Fernando Muslera,1
+7578,783,Uruguay,5268,Carlos Andrés Sánchez Arcosa,Carlos Andrés Sánchez,5
+8651,768,England,3094,Bamidele Alli,Dele Alli,20
+8651,768,England,3205,Kyle Walker,,2
+8651,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+8651,768,England,3244,John Stones,,5
+8651,768,England,3293,Jesse Lingard,,7
+8651,768,England,3308,Kieran Trippier,,12
+8651,768,England,3318,Marcus Rashford,,19
+8651,768,England,3336,Harry Maguire,,6
+8651,768,England,3468,Jordan Pickford,,1
+8651,768,England,3532,Jordan Brian Henderson,Jordan Henderson,8
+8651,768,England,3612,Ashley Young,,18
+8651,768,England,4597,Fabian Delph,,17
+8651,768,England,10955,Harry Kane,,9
+8651,768,England,10956,Eric Dier,,4
+8651,790,Sweden,3576,Martin Olsson,,5
+8651,790,Sweden,3702,Victor Nilsson Lindelöf,Victor Lindelöf,3
+8651,790,Sweden,4417,Ola Toivonen,,20
+8651,790,Sweden,4709,Pontus Jansson,,18
+8651,790,Sweden,5607,Andreas Granqvist,,4
+8651,790,Sweden,5613,Viktor Claesson,,17
+8651,790,Sweden,5617,Sebastian Larsson,,7
+8651,790,Sweden,5621,Ludwig Augustinsson,,6
+8651,790,Sweden,5622,Robin Olsen,,1
+8651,790,Sweden,5624,Albin Ekdal,,8
+8651,790,Sweden,5625,Emil Forsberg,,10
+8651,790,Sweden,6038,John Guidetti,,11
+8651,790,Sweden,6358,Emil Krafth,,16
+8651,790,Sweden,11098,Marcus Berg,,9
+7531,779,Argentina,2995,Ángel Fabián Di María Hernández,Ángel Di María,11
+7531,779,Argentina,3090,Nicolás Hernán Otamendi,Nicolás Otamendi,17
+7531,779,Argentina,3237,Sergio Leonel Agüero del Castillo,Sergio Agüero,19
+7531,779,Argentina,3602,Faustino Marcos Alberto Rojo,Marcos Rojo,16
+7531,779,Argentina,3659,Wilfredo Daniel Caballero,Willy Caballero,23
+7531,779,Argentina,5496,Cristian David Pavón,Cristian Pavón,22
+7531,779,Argentina,5497,Gonzalo Gerardo Higuaín,Gonzalo Higuaín,9
+7531,779,Argentina,5499,Maximiliano Eduardo Meza,Maximiliano Meza,13
+7531,779,Argentina,5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10
+7531,779,Argentina,5504,Éver Maximiliano David Banega,Éver Banega,7
+7531,779,Argentina,5506,Javier Alejandro Mascherano,Javier Mascherano,14
+7531,779,Argentina,5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3
+7531,779,Argentina,5510,Lucas Rodrigo Biglia,Lucas Biglia,5
+7531,779,Argentina,5513,Eduardo Antonio Salvio,Eduardo Salvio,18
+7531,793,Iceland,3720,Johann Berg Guðmunds­son,Johann Gudmundsson,7
+7531,793,Iceland,3944,Gylfi Þór Sigurðsson,Gylfi Sigurðsson,10
+7531,793,Iceland,5495,Rúrik Gíslason,,19
+7531,793,Iceland,5498,Hannes Þór Halldórsson,,1
+7531,793,Iceland,5500,Björn Bergmann Sigurðarson,,9
+7531,793,Iceland,5501,Hörður Björgvin Magnússon,,18
+7531,793,Iceland,5502,Ari Freyr Skúlason,,23
+7531,793,Iceland,5505,Kári Árnason,,14
+7531,793,Iceland,5508,Birkir Már Sævarsson,,2
+7531,793,Iceland,5509,Birkir Bjarnason,,8
+7531,793,Iceland,5511,Ragnar Sigurðsson,,6
+7531,793,Iceland,5512,Emil Hallfreðsson,,20
+7531,793,Iceland,5514,Alfreð Finnbogason,,11
+7531,793,Iceland,5515,Aron Einar Gunnarsson,,17
+7552,782,Belgium,2954,Youri Tielemans,,17
+7552,782,Belgium,3077,Jan Vertonghen,,5
+7552,782,Belgium,3089,Kevin De Bruyne,,7
+7552,782,Belgium,3176,Thomas Meunier,,15
+7552,782,Belgium,3289,Romelu Lukaku Menama,Romelu Lukaku,9
+7552,782,Belgium,3296,Marouane Fellaini-Bakkioui,Marouane Fellaini,8
+7552,782,Belgium,3457,Michy Batshuayi Tunga,Michy Batshuayi,21
+7552,782,Belgium,3509,Thibaut Courtois,,1
+7552,782,Belgium,3621,Eden Hazard,,10
+7552,782,Belgium,5630,Dries Mertens,,14
+7552,782,Belgium,5633,Yannick Ferreira Carrasco,Yannick Carrasco,11
+7552,782,Belgium,5639,Anga Dedryck Boyata,Dedryck Boyata,20
+7552,782,Belgium,5642,Axel Witsel,,6
+7552,782,Belgium,20005,Toby Alderweireld,,2
+7552,777,Tunisia,2974,Saîf-Eddine Khaoui,,7
+7552,777,Tunisia,3196,Wahbi Khazri,,10
+7552,777,Tunisia,3557,Naïm Sliti,,23
+7552,777,Tunisia,3767,Ellyes Skhiri,,17
+7552,777,Tunisia,4826,Yohan Benalouane,,3
+7552,777,Tunisia,5647,Ali Maâloul,,12
+7552,777,Tunisia,5648,Farouk Ben Mustapha,,1
+7552,777,Tunisia,5649,Anice Badri,,9
+7552,777,Tunisia,5650,Ferjani Sassi,,13
+7552,777,Tunisia,5651,Yassine Meriah,,4
+7552,777,Tunisia,5654,Fakhreddine Ben Youssef,,8
+7552,777,Tunisia,5655,Dylan Bronn,,11
+7552,777,Tunisia,5656,Syam Ben Youssef,,2
+7552,777,Tunisia,5936,Hamdi Nagguez,,21
+8658,771,France,2948,Nabil Fekir,,18
+8658,771,France,3009,Kylian Mbappé Lottin,Kylian Mbappé,10
+8658,771,France,3099,Hugo Lloris,,1
+8658,771,France,3604,Olivier Giroud,,9
+8658,771,France,3961,"N""Golo Kanté",,13
+8658,771,France,4375,Blaise Matuidi,,14
+8658,771,France,5476,Benjamin Pavard,,2
+8658,771,France,5480,Corentin Tolisso,,12
+8658,771,France,5484,Lucas Hernández Pi,Lucas Hernandez,21
+8658,771,France,5485,Raphaël Varane,,4
+8658,771,France,5487,Antoine Griezmann,,7
+8658,771,France,5492,Samuel Yves Umtiti,Samuel Umtiti,5
+8658,771,France,5737,"Steven N""Kemboanza Mike Christopher Nzonzi",Steven Nzonzi,15
+8658,771,France,20004,Paul Pogba,,6
+8658,785,Croatia,3444,Danijel Subašić,,23
+8658,785,Croatia,3471,Dejan Lovren,,6
+8658,785,Croatia,5457,Ivan Strinić,,3
+8658,785,Croatia,5459,Marko Pjaca,,20
+8658,785,Croatia,5460,Andrej Kramarić,,9
+8658,785,Croatia,5461,Šime Vrsaljko,,2
+8658,785,Croatia,5463,Luka Modrić,,10
+8658,785,Croatia,5465,Ante Rebić,,18
+8658,785,Croatia,5468,Domagoj Vida,,21
+8658,785,Croatia,5469,Marcelo Brozović,,11
+8658,785,Croatia,5470,Ivan Rakitić,,7
+8658,785,Croatia,5472,Mario Mandžukić,,17
+8658,785,Croatia,5474,Ivan Perišić,,4
+7585,768,England,3094,Bamidele Alli,Dele Alli,20
+7585,768,England,3205,Kyle Walker,,2
+7585,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+7585,768,England,3244,John Stones,,5
+7585,768,England,3293,Jesse Lingard,,7
+7585,768,England,3308,Kieran Trippier,,12
+7585,768,England,3318,Marcus Rashford,,19
+7585,768,England,3336,Harry Maguire,,6
+7585,768,England,3468,Jordan Pickford,,1
+7585,768,England,3532,Jordan Brian Henderson,Jordan Henderson,8
+7585,768,England,3594,Danny Rose,,3
+7585,768,England,3612,Ashley Young,,18
+7585,768,England,10955,Harry Kane,,9
+7585,768,England,10956,Eric Dier,,4
+7585,768,England,10960,Jamie Vardy,,11
+7585,769,Colombia,3445,Radamel Falcao García Zárate,Radamel Falcao,9
+7585,769,Colombia,3494,Davinson Sánchez Mina,Davinson Sánchez,23
+7585,769,Colombia,4276,David Ospina Ramírez,David Ospina,1
+7585,769,Colombia,5678,Jefferson Andrés Lerma Solís,Jefferson Lerma,16
+7585,769,Colombia,5685,Carlos Alberto Sánchez Moreno,Carlos Sánchez,6
+7585,769,Colombia,5686,Wílmar Enrique Barrios Terán,Wílmar Barrios,5
+7585,769,Colombia,5688,Carlos Arturo Bacca Ahumada,Carlos Bacca,7
+7585,769,Colombia,5689,Juan Guillermo Cuadrado Bello,Juan Cuadrado,11
+7585,769,Colombia,5691,Johan Andrés Mojica Palacio,Johan Mojica,17
+7585,769,Colombia,5692,Juan Fernando Quintero Paniagua,Juan Fernando Quintero,20
+7585,769,Colombia,5696,Santiago Arias Naranjo,Santiago Arias,4
+7585,769,Colombia,6193,Andrés Mateus Uribe Villa,Mateus Uribe,15
+7585,769,Colombia,6196,Yerry Fernando Mina González,Yerry Mina,13
+7585,769,Colombia,6334,Luis Fernando Muriel Fruto,Luis Muriel,14
+7585,769,Colombia,6360,Cristian Eduardo Zapata Valencia,Cristián Zapata,2
+7554,768,England,3205,Kyle Walker,,2
+7554,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+7554,768,England,3244,John Stones,,5
+7554,768,England,3293,Jesse Lingard,,7
+7554,768,England,3308,Kieran Trippier,,12
+7554,768,England,3336,Harry Maguire,,6
+7554,768,England,3468,Jordan Pickford,,1
+7554,768,England,3504,Ruben Loftus-Cheek,,21
+7554,768,England,3532,Jordan Brian Henderson,Jordan Henderson,8
+7554,768,England,3594,Danny Rose,,3
+7554,768,England,3612,Ashley Young,,18
+7554,768,England,4597,Fabian Delph,,17
+7554,768,England,10955,Harry Kane,,9
+7554,768,England,10960,Jamie Vardy,,11
+7554,798,Panama,5628,José Luis Rodríguez Francis,José Rodríguez,21
+7554,798,Panama,5631,Blas Antonio Miguel Pérez Ortega,Blas Pérez,7
+7554,798,Panama,5634,Erick Javier Davis Grajales,Erick Davis,15
+7554,798,Panama,5635,Román Aureliano Torres Morcillo,Román Torres,5
+7554,798,Panama,5636,Jaime Manuel Penedo Cano,Jaime Penedo,1
+7554,798,Panama,5637,Edgar Yoel Bárcenas Herrera,Édgar Yoel Bárcenas,8
+7554,798,Panama,5638,Fidel Escobar Mendieta,Fidel Escobar,4
+7554,798,Panama,5640,Gabriel Enrique Gómez Girón,Gabriel Enrique Gómez,6
+7554,798,Panama,5641,Michael Amir Murillo Bermudez,Michael Amir Murillo,2
+7554,798,Panama,5645,Armando Enrique Cooper Whitaker,Armando Cooper,11
+7554,798,Panama,5646,Aníbal Cesis Godoy,Aníbal Godoy,20
+7554,798,Panama,6138,Ricardo Guardia Avila,Ricardo Ávila,19
+7554,798,Panama,6139,Felipe Abdiel Baloy Ramírez,Felipe Baloy,23
+7554,798,Panama,6140,Abdiel Arroyo Molinar,Abdiel Arroyo,16
+7542,780,Portugal,3168,João Filipe Iria Santos Moutinho,João Moutinho,8
+7542,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,11
+7542,780,Portugal,3329,Cédric Ricardo Alves Soares,Cédric Soares,21
+7542,780,Portugal,3707,Adrien Sebastian Perruchet Silva,Adrien Silva,23
+7542,780,Portugal,3960,José Miguel da Rocha Fonte,José Fonte,6
+7542,780,Portugal,4272,João Mário Naval da Costa Eduardo,João Mário,10
+7542,780,Portugal,4367,Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,17
+7542,780,Portugal,5204,Bruno Miguel Borges Fernandes,Bruno Fernandes,16
+7542,780,Portugal,5205,Rui Pedro dos Santos Patrício,Rui Patrício,1
+7542,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,7
+7542,780,Portugal,5209,Raphaël Adelino José Guerreiro,Raphaël Guerreiro,5
+7542,780,Portugal,5214,William Silva de Carvalho,William Carvalho,14
+7542,780,Portugal,5723,Gelson Dany Batalha Martins,Gelson Martins,18
+7542,780,Portugal,20016,Kléper Laveran Lima Ferreira,Pepe,3
+7542,788,Morocco,3302,Nordin Amrabat,,16
+7542,788,Morocco,5221,Manuel Marouan da Costa Trinidade,Manuel da Costa,4
+7542,788,Morocco,5229,Ayoub El Kaabi,,9
+7542,788,Morocco,5232,Mbark Boussoufa,,14
+7542,788,Morocco,5233,Munir Mohand Mohamedi,Munir,12
+7542,788,Morocco,5236,Karim El Ahmadi Al Aroos,Karim El Ahmadi,8
+7542,788,Morocco,5237,Hakim Ziyech,,7
+7542,788,Morocco,5242,Younès Belhanda,,10
+7542,788,Morocco,5244,Medhi Amine El Mouttaqi Benatia,Medhi Benatia,5
+7542,788,Morocco,5245,Achraf Hakimi Mouh,Achraf Hakimi,2
+7542,788,Morocco,5724,Fayçal Fajr,,11
+7542,788,Morocco,5725,Mehdi Carcela-González,,23
+7542,788,Morocco,5726,Khalid Boutaïb,,13
+7542,788,Morocco,5727,Nabil Dirar,,17
+7551,770,Germany,3167,Antonio Rüdiger,,16
+7551,770,Germany,3186,Julian Draxler,,7
+7551,770,Germany,5555,Julian Brandt,,20
+7551,770,Germany,5557,Timo Werner,,9
+7551,770,Germany,5559,Marco Reus,,11
+7551,770,Germany,5562,Thomas Müller,,13
+7551,770,Germany,5565,Mario Gómez García,Mario Gómez,23
+7551,770,Germany,5570,Manuel Neuer,,1
+7551,770,Germany,5574,Toni Kroos,,8
+7551,770,Germany,5578,Jérôme Boateng,,17
+7551,770,Germany,5579,Joshua Kimmich,,18
+7551,770,Germany,6039,Sebastian Rudy,,19
+7551,770,Germany,6040,Jonas Hector,,3
+7551,770,Germany,10287,İlkay Gündoğan,,21
+7551,790,Sweden,3702,Victor Nilsson Lindelöf,Victor Lindelöf,3
+7551,790,Sweden,4417,Ola Toivonen,,20
+7551,790,Sweden,5607,Andreas Granqvist,,4
+7551,790,Sweden,5612,Mikael Lustig,,2
+7551,790,Sweden,5613,Viktor Claesson,,17
+7551,790,Sweden,5615,Isaac Kiese Thelin,,22
+7551,790,Sweden,5617,Sebastian Larsson,,7
+7551,790,Sweden,5621,Ludwig Augustinsson,,6
+7551,790,Sweden,5622,Robin Olsen,,1
+7551,790,Sweden,5624,Albin Ekdal,,8
+7551,790,Sweden,5625,Emil Forsberg,,10
+7551,790,Sweden,6038,John Guidetti,,11
+7551,790,Sweden,11098,Marcus Berg,,9
+7551,790,Sweden,19988,Jimmy Durmaz,,21
+7564,779,Argentina,2995,Ángel Fabián Di María Hernández,Ángel Di María,11
+7564,779,Argentina,3090,Nicolás Hernán Otamendi,Nicolás Otamendi,17
+7564,779,Argentina,3237,Sergio Leonel Agüero del Castillo,Sergio Agüero,19
+7564,779,Argentina,3602,Faustino Marcos Alberto Rojo,Marcos Rojo,16
+7564,779,Argentina,5496,Cristian David Pavón,Cristian Pavón,22
+7564,779,Argentina,5497,Gonzalo Gerardo Higuaín,Gonzalo Higuaín,9
+7564,779,Argentina,5499,Maximiliano Eduardo Meza,Maximiliano Meza,13
+7564,779,Argentina,5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10
+7564,779,Argentina,5504,Éver Maximiliano David Banega,Éver Banega,7
+7564,779,Argentina,5506,Javier Alejandro Mascherano,Javier Mascherano,14
+7564,779,Argentina,5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3
+7564,779,Argentina,5741,Enzo Nicolás Pérez,Enzo Pérez,15
+7564,779,Argentina,5742,Gabriel Iván Mercado,Gabriel Mercado,2
+7564,779,Argentina,6312,Franco Armani,,12
+7564,775,Nigeria,3338,Onyinye Wilfred Ndidi,Wilfred Ndidi,4
+7564,775,Nigeria,3647,Alex Iwobi,,18
+7564,775,Nigeria,3708,Kelechi Promise Iheanacho,Kelechi Iheanacho,14
+7564,775,Nigeria,3963,Victor Moses,,11
+7564,775,Nigeria,5454,Francis Odinaka Uzoho,Francis Uzoho,23
+7564,775,Nigeria,5455,William Troost-Ekong,,5
+7564,775,Nigeria,5458,Odion Jude Ighalo,,9
+7564,775,Nigeria,5462,Brian Oladapo Idowu,Brian Idowu,2
+7564,775,Nigeria,5464,Simeon Tochukwu Nwankwo,Simy,13
+7564,775,Nigeria,5466,Oghenekaro Etebo,Peter Etebo,8
+7564,775,Nigeria,5467,Leon-Aderemi Balogun,,6
+7564,775,Nigeria,5473,Ahmed Musa,,7
+7564,775,Nigeria,5475,John Michael Nchekwube Obinna,John Obi Mikel,10
+7564,775,Nigeria,5830,Kenneth Josiah Omeruo,Kenneth Omeruo,22
+7567,791,South Korea,3083,Heung-Min Son,Son Heung-Min,7
+7567,791,South Korea,5604,Young-Gwon Kim,Kim Young-Gwon,19
+7567,791,South Korea,5606,Hyun-Soo Jang,Jang Hyun-Soo,20
+7567,791,South Korea,5608,Yong Lee,Lee Yong,2
+7567,791,South Korea,5618,Woo-Young Jung,Jung Woo-Young,15
+7567,791,South Korea,5619,Hyun-Woo Cho,Cho Hyun-Woo,23
+7567,791,South Korea,5620,Hee-Chan Hwang,Hwang Hee-Chan,11
+7567,791,South Korea,5623,Jae-Sung Lee,Lee Jae-Sung,17
+7567,791,South Korea,5627,Ja-Cheol Koo,Koo Ja-Cheol,13
+7567,791,South Korea,5986,Chul Hong,Hong Chul,14
+7567,791,South Korea,5988,Se-Jong Ju,Ju Se-Jong,8
+7567,791,South Korea,5989,Seon-Min Moon,Moon Seon-Min,18
+7567,791,South Korea,6323,Young-Sun Yun,Yun Young-Sun,5
+7567,791,South Korea,6325,Yo-Han Ko,Ko Yo-Han,22
+7567,770,Germany,3496,Mesut Özil,,10
+7567,770,Germany,5555,Julian Brandt,,20
+7567,770,Germany,5557,Timo Werner,,9
+7567,770,Germany,5559,Marco Reus,,11
+7567,770,Germany,5562,Thomas Müller,,13
+7567,770,Germany,5565,Mario Gómez García,Mario Gómez,23
+7567,770,Germany,5566,Sami Khedira,,6
+7567,770,Germany,5570,Manuel Neuer,,1
+7567,770,Germany,5572,Mats Hummels,,5
+7567,770,Germany,5574,Toni Kroos,,8
+7567,770,Germany,5579,Joshua Kimmich,,18
+7567,770,Germany,6040,Jonas Hector,,3
+7567,770,Germany,6322,Niklas Süle,,15
+7567,770,Germany,6324,Leon Goretzka,,14
+7544,783,Uruguay,4319,Edinson Roberto Cavani Gómez,Edinson Cavani,21
+7544,783,Uruguay,5246,Luis Alberto Suárez Díaz,Luis Suárez,9
+7544,783,Uruguay,5247,Nahitan Michel Nández Acosta,Nahitan Nández,8
+7544,783,Uruguay,5248,José Martín Cáceres Silva,Martín Cáceres,22
+7544,783,Uruguay,5249,Diego Roberto Godín Leal,Diego Godín,3
+7544,783,Uruguay,5255,Matías Vecino Falero,Matías Vecino,15
+7544,783,Uruguay,5256,Cristian Gabriel Rodríguez Barrotti,Cristian Rodríguez,7
+7544,783,Uruguay,5259,José María Giménez de Vargas,José Giménez,2
+7544,783,Uruguay,5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6
+7544,783,Uruguay,5264,Guillermo Varela Olivera,Guillermo Varela,4
+7544,783,Uruguay,5266,Lucas Torreira Di Pascua,Lucas Torreira,14
+7544,783,Uruguay,5267,Néstor Fernando Muslera Micol,Fernando Muslera,1
+7544,783,Uruguay,5268,Carlos Andrés Sánchez Arcosa,Carlos Andrés Sánchez,5
+7544,783,Uruguay,5717,Diego Sebastián Laxalt Suárez,Diego Laxalt,17
+7544,799,Saudi Arabia,5173,Abdullah Ibrahim Otayf,Abdullah Otayf,14
+7544,799,Saudi Arabia,5178,Salman Mohammed Al Faraj,Salman Al Faraj,7
+7544,799,Saudi Arabia,5183,Yasir Gharsan Al Shahrani,Yasir Al Shahrani,13
+7544,799,Saudi Arabia,5184,Osama Abdulrezag Hawsawi,Osama Hawsawi,3
+7544,799,Saudi Arabia,5185,Taisir Jabir Al Jassim,Taisir Al Jassim,17
+7544,799,Saudi Arabia,5187,Salem Mohammed Al Dawsari,Salem Al Dawsari,18
+7544,799,Saudi Arabia,5188,Hattan Babhir,,9
+7544,799,Saudi Arabia,5190,Fahad Mosaed Al Muwallad Al Harbi,Fahad Al Muwallad,19
+7544,799,Saudi Arabia,5191,Mohammed Al Burayk,,6
+7544,799,Saudi Arabia,5196,Mohammad Ibrahim Al Sahlawi,Mohammad Al Sahlawi,10
+7544,799,Saudi Arabia,5713,Mohammed Kanoo,,12
+7544,799,Saudi Arabia,5714,Mohammed Khalil Al Owais,Mohammed Al Owais,22
+7544,799,Saudi Arabia,5715,Ali Albulayhi,,4
+7544,799,Saudi Arabia,5716,Hussain Al Mogahwi,,16
+7541,778,Japan,3175,Eiji Kawashima,,1
+7541,778,Japan,3300,Maya Yoshida,,22
+7541,778,Japan,3530,Hiroki Sakai,,19
+7541,778,Japan,3810,Shinji Okazaki,,9
+7541,778,Japan,5679,Yūya Ōsako,,15
+7541,778,Japan,5681,Makoto Hasebe,,17
+7541,778,Japan,5682,Gen Shōji,,3
+7541,778,Japan,5683,Keisuke Honda,,4
+7541,778,Japan,5684,Shinji Kagawa,,10
+7541,778,Japan,5687,Takashi Inui,,14
+7541,778,Japan,5690,Yuto Nagatomo,,5
+7541,778,Japan,5693,Gaku Shibasaki,,7
+7541,778,Japan,5694,Hotaru Yamaguchi,,16
+7541,778,Japan,5697,Genki Haraguchi,,8
+7541,769,Colombia,3279,José Heriberto Izquierdo Mena,José Izquierdo,21
+7541,769,Colombia,3445,Radamel Falcao García Zárate,Radamel Falcao,9
+7541,769,Colombia,3494,Davinson Sánchez Mina,Davinson Sánchez,23
+7541,769,Colombia,4276,David Ospina Ramírez,David Ospina,1
+7541,769,Colombia,5678,Jefferson Andrés Lerma Solís,Jefferson Lerma,16
+7541,769,Colombia,5680,Oscar Fabián Murillo Murillo,Óscar Murillo,3
+7541,769,Colombia,5685,Carlos Alberto Sánchez Moreno,Carlos Sánchez,6
+7541,769,Colombia,5686,Wílmar Enrique Barrios Terán,Wílmar Barrios,5
+7541,769,Colombia,5688,Carlos Arturo Bacca Ahumada,Carlos Bacca,7
+7541,769,Colombia,5689,Juan Guillermo Cuadrado Bello,Juan Cuadrado,11
+7541,769,Colombia,5691,Johan Andrés Mojica Palacio,Johan Mojica,17
+7541,769,Colombia,5692,Juan Fernando Quintero Paniagua,Juan Fernando Quintero,20
+7541,769,Colombia,5695,James David Rodríguez Rubio,James Rodríguez,10
+7541,769,Colombia,5696,Santiago Arias Naranjo,Santiago Arias,4
+7583,781,Brazil,3054,Fernando Luiz Rosa,Fernandinho,17
+7583,781,Brazil,3202,Gabriel Fernando de Jesus,Gabriel Jesus,9
+7583,781,Brazil,3295,Thiago Emiliano da Silva,Thiago Silva,2
+7583,781,Brazil,3472,Willian Borges da Silva,Willian,19
+7583,781,Brazil,3501,Philippe Coutinho Correia,Philippe Coutinho,11
+7583,781,Brazil,3535,Roberto Firmino Barbosa de Oliveira,Roberto Firmino,20
+7583,781,Brazil,4320,Neymar da Silva Santos Junior,Neymar,10
+7583,781,Brazil,4372,Marcos Aoás Corrêa ,Marquinhos,13
+7583,781,Brazil,5539,Carlos Henrique Casimiro,Casemiro,5
+7583,781,Brazil,5542,José Paulo Bezzera Maciel Júnior,Paulinho,15
+7583,781,Brazil,5547,Alisson Ramsés Becker,Alisson,1
+7583,781,Brazil,5551,João Miranda de Souza Filho,João Miranda,3
+7583,781,Brazil,5838,Fágner Conserva Lemos,Fágner,22
+7583,781,Brazil,6320,Filipe Luis Kasmirski,Filipe Luis,6
+7583,794,Mexico,3058,Javier Hernández Balcázar,Javier Hernández,14
+7583,794,Mexico,5556,Miguel Arturo Layún Prado,Miguel Layún,7
+7583,794,Mexico,5558,Rafael Márquez Álvarez,Rafael Márquez,4
+7583,794,Mexico,5560,Carlos Alberto Vela Garrido,Carlos Vela,11
+7583,794,Mexico,5561,Hugo Ayala Castro,Hugo Ayala,2
+7583,794,Mexico,5563,José Andrés Guardado Hernández,Andrés Guardado,18
+7583,794,Mexico,5564,Carlos Joel Salcedo Hernández,Carlos Salcedo,3
+7583,794,Mexico,5567,Edson Omar Álvarez Velázquez,Edson Álvarez,21
+7583,794,Mexico,5568,Raúl Alonso Jiménez Rodríguez,Raúl Jiménez,9
+7583,794,Mexico,5571,Hirving Rodrigo Lozano Bahena,Hirving Lozano,22
+7583,794,Mexico,5575,Héctor Miguel Herrera López,Héctor Herrera,16
+7583,794,Mexico,5576,Jesús Daniel Gallardo Vasconcelos,Jesús Gallardo,23
+7583,794,Mexico,5577,Francisco Guillermo Ochoa Magaña,Guillermo Ochoa,13
+7583,794,Mexico,6357,Jonathan dos Santos Ramírez,Jonathan dos Santos,6
+7572,789,Poland,3034,Kamil Glik,,15
+7572,789,Poland,3262,Łukasz Fabiański,,22
+7572,789,Poland,3637,Grzegorz Krychowiak,,10
+7572,789,Poland,4626,Jan Bednarek,,5
+7572,789,Poland,4685,Artur Jędrzejczyk,,3
+7572,789,Poland,5660,Piotr Zieliński,,19
+7572,789,Poland,5667,Kamil Grosicki,,11
+7572,789,Poland,5668,Robert Lewandowski,,9
+7572,789,Poland,5673,Bartosz Bereszyński,,18
+7572,789,Poland,6194,Łukasz Teodorczyk,,14
+7572,789,Poland,6195,Jacek Góralski,,6
+7572,789,Poland,6336,Rafał Kurzawa,,21
+7572,789,Poland,6340,Sławomir Peszko,,17
+7572,778,Japan,3175,Eiji Kawashima,,1
+7572,778,Japan,3300,Maya Yoshida,,22
+7572,778,Japan,3530,Hiroki Sakai,,19
+7572,778,Japan,3810,Shinji Okazaki,,9
+7572,778,Japan,5679,Yūya Ōsako,,15
+7572,778,Japan,5681,Makoto Hasebe,,17
+7572,778,Japan,5687,Takashi Inui,,14
+7572,778,Japan,5690,Yuto Nagatomo,,5
+7572,778,Japan,5693,Gaku Shibasaki,,7
+7572,778,Japan,5694,Hotaru Yamaguchi,,16
+7572,778,Japan,6191,Takashi Usami,,11
+7572,778,Japan,6337,Yoshinori Muto,,13
+7572,778,Japan,6338,Tomoaki Makino,,20
+7572,778,Japan,6339,Gotoku Sakai,,21
+7547,776,Denmark,3043,Christian Dannemann Eriksen,Christian Eriksen,10
+7547,776,Denmark,3815,Kasper Schmeichel,,1
+7547,776,Denmark,3959,Andreas Christensen,,6
+7547,776,Denmark,4447,Martin Braithwaite Christensen,Martin Braithwaite,11
+7547,776,Denmark,4763,Henrik Dalsgaard,,14
+7547,776,Denmark,5516,Pione Sisto Ifolo Emirmija,Pione Sisto,23
+7547,776,Denmark,5520,Lasse Schöne,,19
+7547,776,Denmark,5522,Nicolai Jørgensen,,9
+7547,776,Denmark,5524,Jens Stryger Larsen,,17
+7547,776,Denmark,5527,Thomas Delaney,,8
+7547,776,Denmark,5534,Simon Thorup Kjær,Simon Kjær,4
+7547,776,Denmark,5536,Yussuf Yurary Poulsen,Yussuf Poulsen,20
+7547,776,Denmark,5732,Andreas Evald Cornelius,Andreas Cornelius,21
+7547,792,Australia,3240,Mathew Ryan,Mat Ryan,1
+7547,792,Australia,3281,Aaron Mooy,,13
+7547,792,Australia,5478,Trent Sainsbury,,20
+7547,792,Australia,5479,Aziz Eraltay Behich,Aziz Behich,16
+7547,792,Australia,5481,Mathew Leckie,,7
+7547,792,Australia,5482,Josh Risdon,,19
+7547,792,Australia,5483,Daniel Arzani,,17
+7547,792,Australia,5486,Andrew Nabbout,,11
+7547,792,Australia,5488,Mark Milligan,,5
+7547,792,Australia,5489,Mile Jedinak,,15
+7547,792,Australia,5490,Jackson Irvine,,22
+7547,792,Australia,5491,Tom Rogić,,23
+7547,792,Australia,5493,Tomi Jurić,,9
+7547,792,Australia,5494,Robbie Kruse,,10
+7582,772,Spain,3064,David Josué Jiménez Silva,David Silva,21
+7582,772,Spain,3333,David de Gea Quintana,David de Gea,1
+7582,772,Spain,4926,Francisco Román Alarcón Suárez,Isco,22
+7582,772,Spain,5198,Diego da Silva Costa,Diego Costa,19
+7582,772,Spain,5199,Jorge Resurrección Merodio,Koke,8
+7582,772,Spain,5201,Sergio Ramos García,Sergio Ramos,15
+7582,772,Spain,5202,José Ignacio Fernández Iglesias,Nacho,4
+7582,772,Spain,5203,Sergio Busquets i Burgos,Sergio Busquets,5
+7582,772,Spain,5211,Jordi Alba Ramos,Jordi Alba,18
+7582,772,Spain,5213,Gerard Piqué Bernabéu,Gerard Piqué,3
+7582,772,Spain,5216,Andrés Iniesta Luján,Andrés Iniesta,6
+7582,772,Spain,5217,Iago Aspas Juncal,Iago Aspas,17
+7582,772,Spain,5718,Rodrigo Moreno Machado,Rodrigo,9
+7582,772,Spain,5719,Marco Asensio Willemsen,Marco Asensio,20
+7582,772,Spain,5721,Daniel Carvajal Ramos,Daniel Carvajal,2
+7582,796,Russia,5170,Mário Figueira Fernandes,Mário Fernandes,2
+7582,796,Russia,5171,Roman Zobnin,,11
+7582,796,Russia,5172,Igor Akinfeev,,1
+7582,796,Russia,5174,Sergei Ignashevich,,4
+7582,796,Russia,5175,Ilya Kutepov,,3
+7582,796,Russia,5177,Aleksandr Golovin,,17
+7582,796,Russia,5179,Daler Kuzyaev,,7
+7582,796,Russia,5182,Aleksandr Samedov,,19
+7582,796,Russia,5186,Denis Cheryshev,,6
+7582,796,Russia,5193,Yuri Zhirkov,,18
+7582,796,Russia,5194,Fyodor Smolov,,10
+7582,796,Russia,5195,Artem Dzyuba,,22
+7582,796,Russia,5677,Fedor Kudryashov,,13
+7582,796,Russia,6353,Vladimir Granat,,14
+7582,796,Russia,6354,Aleksandr Erokhin,,21
+8656,768,England,3094,Bamidele Alli,Dele Alli,20
+8656,768,England,3205,Kyle Walker,,2
+8656,768,England,3233,Raheem Shaquille Sterling,Raheem Sterling,10
+8656,768,England,3244,John Stones,,5
+8656,768,England,3293,Jesse Lingard,,7
+8656,768,England,3308,Kieran Trippier,,12
+8656,768,England,3318,Marcus Rashford,,19
+8656,768,England,3336,Harry Maguire,,6
+8656,768,England,3468,Jordan Pickford,,1
+8656,768,England,3532,Jordan Brian Henderson,Jordan Henderson,8
+8656,768,England,3594,Danny Rose,,3
+8656,768,England,3612,Ashley Young,,18
+8656,768,England,10955,Harry Kane,,9
+8656,768,England,10956,Eric Dier,,4
+8656,768,England,10960,Jamie Vardy,,11
+8656,785,Croatia,3444,Danijel Subašić,,23
+8656,785,Croatia,3471,Dejan Lovren,,6
+8656,785,Croatia,5457,Ivan Strinić,,3
+8656,785,Croatia,5460,Andrej Kramarić,,9
+8656,785,Croatia,5461,Šime Vrsaljko,,2
+8656,785,Croatia,5463,Luka Modrić,,10
+8656,785,Croatia,5465,Ante Rebić,,18
+8656,785,Croatia,5468,Domagoj Vida,,21
+8656,785,Croatia,5469,Marcelo Brozović,,11
+8656,785,Croatia,5470,Ivan Rakitić,,7
+8656,785,Croatia,5472,Mario Mandžukić,,17
+8656,785,Croatia,5474,Ivan Perišić,,4
+8656,785,Croatia,5739,Vedran Ćorluka,,5
+8656,785,Croatia,6305,Milan Badelj,,19
+8656,785,Croatia,6308,Josip Pivarić,,22
+7576,772,Spain,3064,David Josué Jiménez Silva,David Silva,21
+7576,772,Spain,3333,David de Gea Quintana,David de Gea,1
+7576,772,Spain,4926,Francisco Román Alarcón Suárez,Isco,22
+7576,772,Spain,5198,Diego da Silva Costa,Diego Costa,19
+7576,772,Spain,5199,Jorge Resurrección Merodio,Koke,8
+7576,772,Spain,5200,Lucas Vázquez Iglesias,Lucas Vázquez,11
+7576,772,Spain,5201,Sergio Ramos García,Sergio Ramos,15
+7576,772,Spain,5202,José Ignacio Fernández Iglesias,Nacho,4
+7576,772,Spain,5203,Sergio Busquets i Burgos,Sergio Busquets,5
+7576,772,Spain,5208,Thiago Alcântara do Nascimento,Thiago Alcântara,10
+7576,772,Spain,5211,Jordi Alba Ramos,Jordi Alba,18
+7576,772,Spain,5213,Gerard Piqué Bernabéu,Gerard Piqué,3
+7576,772,Spain,5216,Andrés Iniesta Luján,Andrés Iniesta,6
+7576,772,Spain,5217,Iago Aspas Juncal,Iago Aspas,17
+7576,780,Portugal,3168,João Filipe Iria Santos Moutinho,João Moutinho,8
+7576,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,11
+7576,780,Portugal,3329,Cédric Ricardo Alves Soares,Cédric Soares,21
+7576,780,Portugal,3960,José Miguel da Rocha Fonte,José Fonte,6
+7576,780,Portugal,4272,João Mário Naval da Costa Eduardo,João Mário,10
+7576,780,Portugal,4367,Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,17
+7576,780,Portugal,5204,Bruno Miguel Borges Fernandes,Bruno Fernandes,16
+7576,780,Portugal,5205,Rui Pedro dos Santos Patrício,Rui Patrício,1
+7576,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,7
+7576,780,Portugal,5209,Raphaël Adelino José Guerreiro,Raphaël Guerreiro,5
+7576,780,Portugal,5214,William Silva de Carvalho,William Carvalho,14
+7576,780,Portugal,5215,Ricardo Andrade Quaresma Bernardo,Ricardo Quaresma,20
+7576,780,Portugal,5218,André Miguel Valente Silva,André Silva,9
+7576,780,Portugal,20016,Kléper Laveran Lima Ferreira,Pepe,3
+7540,774,Egypt,3531,Mohamed Salah,,10
+7540,774,Egypt,3536,Ramadan Sobhi,,14
+7540,774,Egypt,3568,Mohamed Naser Elsayed Elneny,Mohamed Elneny,17
+7540,774,Egypt,4063,Ahmed Hegazi,,6
+7540,774,Egypt,5250,Ahmed Fathy Abdel Meneim Ibrahim,Ahmed Fathy,7
+7540,774,Egypt,5251,Abdalla Mahmoud El Said Bekhit,Abdalla El Said,19
+7540,774,Egypt,5252,Marwan Mohsen,,9
+7540,774,Egypt,5253,Amr Medhat Warda,Amr Warda,22
+7540,774,Egypt,5254,Ali Gabr,,2
+7540,774,Egypt,5257,Mahmoud Abdul Monem Abdelhamid Soliman,Kahraba,11
+7540,774,Egypt,5261,Mahmoud Ibrahim Hassan,Trézéguet,21
+7540,774,Egypt,5262,Tarek Hamed,,8
+7540,774,Egypt,5263,Mohamed Abdul Shafy Sayed Abouezeid,Mohamed Abdul Shafy,13
+7540,774,Egypt,5265,Mohamed El Shenawy,,23
+7540,796,Russia,5170,Mário Figueira Fernandes,Mário Fernandes,2
+7540,796,Russia,5171,Roman Zobnin,,11
+7540,796,Russia,5172,Igor Akinfeev,,1
+7540,796,Russia,5174,Sergei Ignashevich,,4
+7540,796,Russia,5175,Ilya Kutepov,,3
+7540,796,Russia,5177,Aleksandr Golovin,,17
+7540,796,Russia,5179,Daler Kuzyaev,,7
+7540,796,Russia,5181,Yury Gazinskiy,,8
+7540,796,Russia,5182,Aleksandr Samedov,,19
+7540,796,Russia,5186,Denis Cheryshev,,6
+7540,796,Russia,5193,Yuri Zhirkov,,18
+7540,796,Russia,5194,Fyodor Smolov,,10
+7540,796,Russia,5195,Artem Dzyuba,,22
+7540,796,Russia,5677,Fedor Kudryashov,,13
+7568,773,Switzerland,3500,Granit Xhaka,,10
+7568,773,Switzerland,3533,Xherdan Shaqiri,,23
+7568,773,Switzerland,5537,Fabian Lukas Schär,Fabian Schär,22
+7568,773,Switzerland,5538,Denis Lemi Zakaria Lako Lado,Denis Zakaria,17
+7568,773,Switzerland,5540,Valon Behrami,,11
+7568,773,Switzerland,5541,Stephan Lichtsteiner,,2
+7568,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,Ricardo Rodríguez,13
+7568,773,Switzerland,5545,Breel-Donald Embolo,Breel Embolo,7
+7568,773,Switzerland,5546,Michael Lang,,6
+7568,773,Switzerland,5549,Manuel Obafemi Akanji,Manuel Akanji,5
+7568,773,Switzerland,5550,Yann Sommer,,1
+7568,773,Switzerland,5554,Blerim Džemaili,,15
+7568,773,Switzerland,5834,Mario Gavranović,,18
+7568,773,Switzerland,5835,Josip Drmic,,19
+7568,795,Costa Rica,5581,Joel Nathaniel Campbell Samuels,Joel Campbell,12
+7568,795,Costa Rica,5582,Celso Borges Mora,Celso Borges,5
+7568,795,Costa Rica,5584,Giancarlo González Castro,Giancarlo González,3
+7568,795,Costa Rica,5585,Daniel Colindres Solera,Daniel Colindres,9
+7568,795,Costa Rica,5590,Johnny Acosta Zamora,Johnny Acosta,2
+7568,795,Costa Rica,5592,Bryan Ruiz González,Bryan Ruiz,10
+7568,795,Costa Rica,5597,Keylor Navas Gamboa,Keylor Navas,1
+7568,795,Costa Rica,5599,David Alberto Guzmán Pérez,David Guzmán,20
+7568,795,Costa Rica,5602,Cristian Gamboa Luna,Cristian Gamboa,16
+7568,795,Costa Rica,5836,Bryan Oviedo,,8
+7568,795,Costa Rica,6326,Rodney Wallace,,13
+7568,795,Costa Rica,6327,Rándall Azofeifa Corrales,Randall Azofeifa,14
+7568,795,Costa Rica,6328,Kendall Jamaal Waston Manley,Kendall Waston,19
+7568,795,Costa Rica,6329,Ian Rey Smith Quiros,Ian Smith,4
+7569,777,Tunisia,3196,Wahbi Khazri,,10
+7569,777,Tunisia,3226,Bassem Srarfi,,18
+7569,777,Tunisia,3252,Oussama Haddadi,,5
+7569,777,Tunisia,3557,Naïm Sliti,,23
+7569,777,Tunisia,3767,Ellyes Skhiri,,17
+7569,777,Tunisia,5649,Anice Badri,,9
+7569,777,Tunisia,5650,Ferjani Sassi,,13
+7569,777,Tunisia,5651,Yassine Meriah,,4
+7569,777,Tunisia,5654,Fakhreddine Ben Youssef,,8
+7569,777,Tunisia,5936,Hamdi Nagguez,,21
+7569,777,Tunisia,6342,Aymen Mathlouthi,,16
+7569,777,Tunisia,6345,Rami Bedoui,,6
+7569,777,Tunisia,6347,Ghilane Chalali,,20
+7569,777,Tunisia,6348,Ahmed Khalil,,15
+7569,798,Panama,5628,José Luis Rodríguez Francis,José Rodríguez,21
+7569,798,Panama,5629,Gabriel Arturo Torres Tejada,Gabriel Torres,9
+7569,798,Panama,5635,Román Aureliano Torres Morcillo,Román Torres,5
+7569,798,Panama,5636,Jaime Manuel Penedo Cano,Jaime Penedo,1
+7569,798,Panama,5637,Edgar Yoel Bárcenas Herrera,Édgar Yoel Bárcenas,8
+7569,798,Panama,5638,Fidel Escobar Mendieta,Fidel Escobar,4
+7569,798,Panama,5640,Gabriel Enrique Gómez Girón,Gabriel Enrique Gómez,6
+7569,798,Panama,5643,Luis Carlos Tejada Hansell,Luis Tejada,18
+7569,798,Panama,5646,Aníbal Cesis Godoy,Aníbal Godoy,20
+7569,798,Panama,6138,Ricardo Guardia Avila,Ricardo Ávila,19
+7569,798,Panama,6140,Abdiel Arroyo Molinar,Abdiel Arroyo,16
+7569,798,Panama,6343,Harold Oshkaly Cummings Segura,Harold Cummings,3
+7569,798,Panama,6344,Luis Carlos Ovalle Victoria,Luis Ovalle,17
+7569,798,Panama,6346,Adolfo Abdiel Machado,Adolfo Machado,13
+7570,782,Belgium,2954,Youri Tielemans,,17
+7570,782,Belgium,3037,Moussa Sidi Yaya Dembélé,Mousa Dembélé,19
+7570,782,Belgium,3101,Vincent Kompany,,4
+7570,782,Belgium,3296,Marouane Fellaini-Bakkioui,Marouane Fellaini,8
+7570,782,Belgium,3457,Michy Batshuayi Tunga,Michy Batshuayi,21
+7570,782,Belgium,3509,Thibaut Courtois,,1
+7570,782,Belgium,4831,Nacer Chadli,,22
+7570,782,Belgium,5630,Dries Mertens,,14
+7570,782,Belgium,5632,Thorgan Hazard,,16
+7570,782,Belgium,5639,Anga Dedryck Boyata,Dedryck Boyata,20
+7570,782,Belgium,6330,Adnan Januzaj,,18
+7570,782,Belgium,6331,Leander Dendoncker,,23
+7570,782,Belgium,6332,Thomas Vermaelen,,3
+7570,768,England,3244,John Stones,,5
+7570,768,England,3314,Phil Jones,,16
+7570,768,England,3318,Marcus Rashford,,19
+7570,768,England,3336,Harry Maguire,,6
+7570,768,England,3468,Jordan Pickford,,1
+7570,768,England,3504,Ruben Loftus-Cheek,,21
+7570,768,England,3569,Daniel Nii Tackie Mensah Welbeck,Danny Welbeck,14
+7570,768,England,3594,Danny Rose,,3
+7570,768,England,3645,Gary Cahill,,15
+7570,768,England,3664,Trent Alexander-Arnold,,22
+7570,768,England,4597,Fabian Delph,,17
+7570,768,England,10956,Eric Dier,,4
+7570,768,England,10960,Jamie Vardy,,11

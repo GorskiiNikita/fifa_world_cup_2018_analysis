@@ -1,0 +1,65 @@
+match_id,match_date,kick_off,competition_stage_id,competition_stage_name,home_team_id,home_team_name,home_team_group,away_team_id,away_team_name,away_team_group,stadium_id,stadium_name,referee_id,referee_name,home_score,away_score
+8655,2018-07-10,20:00:00.000,15,Semi-finals,771,France,,782,Belgium,,4726,Saint-Petersburg Stadium,734,A. Cunha,1,0
+8657,2018-07-14,16:00:00.000,25,3rd Place Final,782,Belgium,,768,England,,4726,Saint-Petersburg Stadium,741,A. Faghani,2,0
+7543,2018-06-20,20:00:00.000,10,Group Stage,797,Iran,Group B,772,Spain,Group B,4258,Kazan Arena,734,A. Cunha,0,1
+7562,2018-06-26,16:00:00.000,10,Group Stage,792,Australia,Group C,784,Peru,Group C,249,Olimpiyskiy Stadion Fisht,725,S. Karasev,0,2
+7549,2018-06-22,17:00:00.000,10,Group Stage,775,Nigeria,Group D,793,Iceland,Group D,4257,Volgograd Arena,739,M. Conger,2,0
+7565,2018-06-27,20:00:00.000,10,Group Stage,786,Serbia,Group E,781,Brazil,Group E,4130,Otkrytiye Arena,741,A. Faghani,0,2
+7581,2018-07-01,20:00:00.000,33,Round of 16,785,Croatia,,776,Denmark,,4263,Stadion Nizhny Novgorod,730,N. Pitana,1,1
+7557,2018-06-25,20:00:00.000,10,Group Stage,797,Iran,Group B,780,Portugal,Group B,4259,Mordovia Arena,731,E. Cáceres,1,1
+7566,2018-06-27,16:00:00.000,10,Group Stage,794,Mexico,Group F,790,Sweden,Group F,4261,Ekaterinburg Arena,730,N. Pitana,0,3
+7558,2018-06-25,16:00:00.000,10,Group Stage,783,Uruguay,Group A,796,Russia,Group A,254,Samara Arena,732,M. Diedhiou,3,0
+7529,2018-06-16,21:00:00.000,10,Group Stage,785,Croatia,Group D,775,Nigeria,Group D,4260,Stadion Kaliningrad,738,Sandro Ricci,2,0
+8650,2018-07-06,20:00:00.000,11,Quarter-finals,781,Brazil,,782,Belgium,,4258,Kazan Arena,727,M. Mažić,1,2
+7546,2018-06-21,17:00:00.000,10,Group Stage,771,France,Group C,784,Peru,Group C,4261,Ekaterinburg Arena,737,Mohamed Abdulla Hassan Mohd,1,0
+7537,2018-06-18,20:00:00.000,10,Group Stage,777,Tunisia,Group G,768,England,Group G,4257,Volgograd Arena,733,W. Roldán,1,2
+7580,2018-06-30,16:00:00.000,33,Round of 16,771,France,,779,Argentina,,4258,Kazan Arena,741,A. Faghani,4,3
+7545,2018-06-21,20:00:00.000,10,Group Stage,779,Argentina,Group D,785,Croatia,Group D,4263,Stadion Nizhny Novgorod,735,R. Irmatov,0,3
+7536,2018-06-18,17:00:00.000,10,Group Stage,782,Belgium,Group G,798,Panama,Group G,249,Olimpiyskiy Stadion Fisht,743,J. Sikazwe,3,0
+7530,2018-06-16,12:00:00.000,10,Group Stage,771,France,Group C,792,Australia,Group C,4258,Kazan Arena,734,A. Cunha,2,1
+7535,2018-06-17,14:00:00.000,10,Group Stage,795,Costa Rica,Group E,786,Serbia,Group E,254,Samara Arena,732,M. Diedhiou,0,1
+7584,2018-07-02,20:00:00.000,33,Round of 16,782,Belgium,,778,Japan,,256,Rostov Arena,732,M. Diedhiou,3,2
+8649,2018-07-06,16:00:00.000,11,Quarter-finals,783,Uruguay,,771,France,,4263,Stadion Nizhny Novgorod,730,N. Pitana,0,2
+7538,2018-06-18,14:00:00.000,10,Group Stage,790,Sweden,Group F,791,South Korea,Group F,4263,Stadion Nizhny Novgorod,742,J. Aguilar,1,0
+7533,2018-06-17,20:00:00.000,10,Group Stage,781,Brazil,Group E,773,Switzerland,Group E,256,Rostov Arena,740,C. Ramos,1,1
+7560,2018-06-25,20:00:00.000,10,Group Stage,772,Spain,Group B,788,Morocco,Group B,4260,Stadion Kaliningrad,735,R. Irmatov,2,2
+7525,2018-06-14,17:00:00.000,10,Group Stage,796,Russia,Group A,799,Saudi Arabia,Group A,255,Stadion Luzhniki,730,N. Pitana,5,0
+7532,2018-06-16,18:00:00.000,10,Group Stage,784,Peru,Group C,776,Denmark,Group C,4259,Mordovia Arena,736,B. Gassama,0,1
+7555,2018-06-24,20:00:00.000,10,Group Stage,789,Poland,Group H,769,Colombia,Group H,4258,Kazan Arena,740,C. Ramos,0,3
+7571,2018-06-28,16:00:00.000,10,Group Stage,787,Senegal,Group H,769,Colombia,Group H,254,Samara Arena,727,M. Mažić,0,1
+8652,2018-07-07,20:00:00.000,11,Quarter-finals,796,Russia,,785,Croatia,,249,Olimpiyskiy Stadion Fisht,738,Sandro Ricci,2,2
+7553,2018-06-23,17:00:00.000,10,Group Stage,791,South Korea,Group F,794,Mexico,Group F,256,Rostov Arena,727,M. Mažić,1,2
+7559,2018-06-25,16:00:00.000,10,Group Stage,799,Saudi Arabia,Group A,774,Egypt,Group A,4257,Volgograd Arena,733,W. Roldán,2,1
+7548,2018-06-22,14:00:00.000,10,Group Stage,781,Brazil,Group E,795,Costa Rica,Group E,4726,Saint-Petersburg Stadium,287,B. Kuipers,2,0
+7534,2018-06-17,17:00:00.000,10,Group Stage,770,Germany,Group F,794,Mexico,Group F,255,Stadion Luzhniki,741,A. Faghani,0,1
+7577,2018-06-15,17:00:00.000,10,Group Stage,788,Morocco,Group B,797,Iran,Group B,4726,Saint-Petersburg Stadium,581,C. Çakιr,0,1
+7539,2018-06-19,17:00:00.000,10,Group Stage,789,Poland,Group H,787,Senegal,Group H,4130,Otkrytiye Arena,176,Nawaf Shukralla,1,2
+7550,2018-06-22,20:00:00.000,10,Group Stage,786,Serbia,Group E,773,Switzerland,Group E,4260,Stadion Kaliningrad,226,F. Brych,1,2
+7556,2018-06-24,17:00:00.000,10,Group Stage,778,Japan,Group H,787,Senegal,Group H,4261,Ekaterinburg Arena,268,G. Rocchi,2,2
+7561,2018-06-26,20:00:00.000,10,Group Stage,793,Iceland,Group D,785,Croatia,Group D,256,Rostov Arena,180,Antonio Mateu,1,2
+7586,2018-07-03,16:00:00.000,33,Round of 16,790,Sweden,,773,Switzerland,,4726,Saint-Petersburg Stadium,420,D. Skomina,1,0
+7563,2018-06-26,16:00:00.000,10,Group Stage,776,Denmark,Group C,771,France,Group C,255,Stadion Luzhniki,738,Sandro Ricci,0,0
+7579,2018-06-30,20:00:00.000,33,Round of 16,783,Uruguay,,780,Portugal,,249,Olimpiyskiy Stadion Fisht,740,C. Ramos,2,1
+7578,2018-06-15,14:00:00.000,10,Group Stage,774,Egypt,Group A,783,Uruguay,Group A,4261,Ekaterinburg Arena,287,B. Kuipers,0,1
+8651,2018-07-07,16:00:00.000,11,Quarter-finals,790,Sweden,,768,England,,254,Samara Arena,287,B. Kuipers,0,2
+7531,2018-06-16,15:00:00.000,10,Group Stage,779,Argentina,Group D,793,Iceland,Group D,4130,Otkrytiye Arena,367,S. Marciniak,1,1
+7552,2018-06-23,14:00:00.000,10,Group Stage,782,Belgium,Group G,777,Tunisia,Group G,4130,Otkrytiye Arena,428,J. Marrufo,5,2
+8658,2018-07-15,17:00:00.000,26,Final,771,France,,785,Croatia,,255,Stadion Luzhniki,730,N. Pitana,4,2
+7585,2018-07-03,20:00:00.000,33,Round of 16,769,Colombia,,768,England,,4130,Otkrytiye Arena,435,M. Geiger,1,1
+7554,2018-06-24,14:00:00.000,10,Group Stage,768,England,Group G,798,Panama,Group G,4263,Stadion Nizhny Novgorod,992,Ghead Grisha,6,1
+7542,2018-06-20,14:00:00.000,10,Group Stage,780,Portugal,Group B,788,Morocco,Group B,255,Stadion Luzhniki,435,M. Geiger,1,0
+7551,2018-06-23,20:00:00.000,10,Group Stage,770,Germany,Group F,790,Sweden,Group F,249,Olimpiyskiy Stadion Fisht,367,S. Marciniak,2,1
+7564,2018-06-26,20:00:00.000,10,Group Stage,775,Nigeria,Group D,779,Argentina,Group D,4726,Saint-Petersburg Stadium,581,C. Çakιr,1,2
+7567,2018-06-27,16:00:00.000,10,Group Stage,791,South Korea,Group F,770,Germany,Group F,4258,Kazan Arena,435,M. Geiger,2,0
+7544,2018-06-20,17:00:00.000,10,Group Stage,783,Uruguay,Group A,799,Saudi Arabia,Group A,256,Rostov Arena,76,C. Turpin,1,0
+7541,2018-06-19,14:00:00.000,10,Group Stage,769,Colombia,Group H,778,Japan,Group H,4259,Mordovia Arena,420,D. Skomina,1,2
+7583,2018-07-02,16:00:00.000,33,Round of 16,781,Brazil,,794,Mexico,,254,Samara Arena,268,G. Rocchi,2,0
+7572,2018-06-28,16:00:00.000,10,Group Stage,778,Japan,Group H,789,Poland,Group H,4257,Volgograd Arena,743,J. Sikazwe,0,1
+7547,2018-06-21,14:00:00.000,10,Group Stage,776,Denmark,Group C,792,Australia,Group C,254,Samara Arena,180,Antonio Mateu,1,1
+7582,2018-07-01,16:00:00.000,33,Round of 16,772,Spain,,796,Russia,,255,Stadion Luzhniki,287,B. Kuipers,1,1
+8656,2018-07-11,20:00:00.000,15,Semi-finals,785,Croatia,,768,England,,255,Stadion Luzhniki,581,C. Çakιr,2,1
+7576,2018-06-15,20:00:00.000,10,Group Stage,780,Portugal,Group B,772,Spain,Group B,249,Olimpiyskiy Stadion Fisht,268,G. Rocchi,3,3
+7540,2018-06-19,20:00:00.000,10,Group Stage,796,Russia,Group A,774,Egypt,Group A,4726,Saint-Petersburg Stadium,731,E. Cáceres,3,1
+7568,2018-06-27,20:00:00.000,10,Group Stage,773,Switzerland,Group E,795,Costa Rica,Group E,4263,Stadion Nizhny Novgorod,76,C. Turpin,2,2
+7569,2018-06-28,20:00:00.000,10,Group Stage,798,Panama,Group G,777,Tunisia,Group G,4259,Mordovia Arena,176,Nawaf Shukralla,1,2
+7570,2018-06-28,20:00:00.000,10,Group Stage,768,England,Group G,782,Belgium,Group G,4260,Stadion Kaliningrad,420,D. Skomina,0,1
