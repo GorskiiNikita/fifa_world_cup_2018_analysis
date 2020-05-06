@@ -2,24 +2,24 @@
 Данные содержатся в 4 csv файлах: FIFAWorldCup2018Matches.csv, FIFAWorldCup2018Lineups.csv, FIFAWorldCup2018Passes.csv и FIFAWorldCup2018Shots.csv
 
 
-Поля из файла FIFAWorldCup2018Matches.csv:
-match_id - Идентификатор матча
-match_date - Дата проведения матча
-kick_off - Время начального удара
-competition_stage_id - Идентификатор стадии соревнований
-competition_stage_name - Название стадии соревнования (Group Stage, Round of 16, Quarter-finals, Semi-finals, 3rd Place Final, Final)
-home_team_id - Идентификатор первой команды
-home_team_name - Название первой команды
-home_team_group - Группа первой команды
-away_team_id - Идентификатор второй команды
-away_team_name - Название второй команды
-away_team_group - Группа второй команды
-stadium_id - Идентификатор стадиона
-stadium_name - Название стадиона
-referee_id - Идентификатор главного судьи
-referee_name - Имя главного судьи
-home_score - Число голов первой команды в основное время
-away_score - Число голов второй команды в основное время
+Поля из файла FIFAWorldCup2018Matches.csv:<br>
+match_id - Идентификатор матча<br>
+match_date - Дата проведения матча<br>
+kick_off - Время начального удара<br>
+competition_stage_id - Идентификатор стадии соревнований<br>
+competition_stage_name - Название стадии соревнования (Group Stage, Round of 16, Quarter-finals, Semi-finals, 3rd Place Final, Final)<br>
+home_team_id - Идентификатор первой команды<br>
+home_team_name - Название первой команды<br>
+home_team_group - Группа первой команды<br>
+away_team_id - Идентификатор второй команды<br>
+away_team_name - Название второй команды<br>
+away_team_group - Группа второй команды<br>
+stadium_id - Идентификатор стадиона<br>
+stadium_name - Название стадиона<br>
+referee_id - Идентификатор главного судьи<br>
+referee_name - Имя главного судьи<br>
+home_score - Число голов первой команды в основное время<br>
+away_score - Число голов второй команды в основное время<br>
 
 
 Поля из файла FIFAWorldCup2018Lineups.csv:
